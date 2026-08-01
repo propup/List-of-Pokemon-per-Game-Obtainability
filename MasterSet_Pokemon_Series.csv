@@ -631,7 +631,6 @@ National_Dex,Pokemon,Form,Series
 554,Darumaka,Galarian,['SwSh']
 555,Darmanitan,,"['BW', 'B2W2', 'OrAs', 'SwSh', 'SwSh']"
 555,Darmanitan,Galarian,['SwSh']
-555,Darmanitan (Zen Mode),Galarian,['SwSh']
 556,Maractus,,"['BW', 'B2W2', 'XY', 'OrAs', 'SwSh']"
 557,Dwebble,,"['BW', 'B2W2', 'XY', 'OrAs', 'USUM', 'SwSh']"
 558,Crustle,,"['BW', 'B2W2', 'XY', 'OrAs', 'USUM', 'SwSh']"
@@ -906,14 +905,10 @@ National_Dex,Pokemon,Form,Series
 800,Necrozma,Dusk Mane,['SV']
 801,Magearna,,"['SM', 'USUM', 'SwSh', 'ZA', 'SV']"
 802,Marshadow,,"['SM', 'USUM', 'SwSh', 'ZA']"
-803,Poipole,,['USUM']
-803,Stakataka,,['SwSh']
-804,Blacephalon,,['SwSh']
-804,Naganadel,,['USUM']
-805,Poipole,,['SwSh']
-805,Stakataka,,['USUM']
-806,Blacephalon,,['USUM']
-806,Naganadel,,['SwSh']
+803,Poipole,,"['USUM', 'SwSh']"
+804,Naganadel,,"['USUM', 'SwSh']"
+805,Stakataka,,"['USUM', 'SwSh']"
+806,Blacephalon,,"['USUM', 'SwSh']"
 807,Zeraora,,"['USUM', 'SwSh', 'ZA']"
 808,Meltan,,"['PE', 'SwSh', 'ZA']"
 809,Melmetal,,"['PE', 'SwSh', 'ZA']"

@@ -905,14 +905,10 @@ National_Dex,Pokemon,Form,Games
 800,Necrozma,Dusk Mane,"['Scarlet', 'Violet']"
 801,Magearna,,"['Sun', 'Moon', 'Sword', 'Shield', 'Scarlet', 'Violet', 'Legends ZA']"
 802,Marshadow,,"['Sun', 'Moon', 'Sword', 'Shield', 'Legends ZA']"
-803,Poipole,,[]
-803,Stakataka,,"['Sword', 'Shield']"
-804,Blacephalon,,"['Sword', 'Shield']"
-804,Naganadel,,[]
-805,Poipole,,"['Ultra Moon', 'Sword', 'Shield']"
-805,Stakataka,,['Ultra Moon']
-806,Blacephalon,,['Ultra Sun']
-806,Naganadel,,"['Ultra Sun', 'Sword', 'Shield']"
+803,Poipole,,"['Sword', 'Shield']"
+804,Naganadel,,"['Sword', 'Shield']"
+805,Stakataka,,"['Ultra Moon', 'Sword', 'Shield']"
+806,Blacephalon,,"['Ultra Sun', 'Sword', 'Shield']"
 807,Zeraora,,"['Sword', 'Shield', 'Legends ZA']"
 808,Meltan,,"['Lets Go Pikachu', 'Lets Go Eevee', 'Sword', 'Shield', 'Legends ZA']"
 809,Melmetal,,"['Lets Go Pikachu', 'Lets Go Eevee', 'Sword', 'Shield', 'Legends ZA']"
