@@ -1,0 +1,814 @@
+National_Dex, Pokemon                     , Form               , Obtainability, Series
+         001, Bulbasaur                   ,                    , True         , SV
+         002, Ivysaur                     ,                    , True         , SV
+         003, Venusaur                    ,                    , True         , SV
+         004, Charmander                  ,                    , True         , SV
+         005, Charmeleon                  ,                    , True         , SV
+         006, Charizard                   ,                    , True         , SV
+         007, Squirtle                    ,                    , True         , SV
+         008, Wartortle                   ,                    , True         , SV
+         009, Blastoise                   ,                    , True         , SV
+         023, Ekans                       ,                    , True         , SV
+         024, Arbok                       ,                    , True         , SV
+         025, Pikachu                     ,                    , True         , SV
+         026, Raichu                      ,                    , True         , SV
+          26, Raichu                      , Alolan             , True         , SV
+         027, Sandshrew                   ,                    , True         , SV
+          27, Sandshrew                   , Alolan             , True         , SV
+         028, Sandslash                   ,                    , True         , SV
+          28, Sandslash                   , Alolan             , True         , SV
+         035, Clefairy                    ,                    , True         , SV
+         036, Clefable                    ,                    , True         , SV
+         037, Vulpix                      ,                    , True         , SV
+          37, Vulpix                      , Alolan             , True         , SV
+         038, Ninetales                   ,                    , True         , SV
+          38, Ninetales                   , Alolan             , True         , SV
+         039, Jigglypuff                  ,                    , True         , SV
+         040, Wigglytuff                  ,                    , True         , SV
+         043, Oddish                      ,                    , True         , SV
+         044, Gloom                       ,                    , True         , SV
+         045, Vileplume                   ,                    , True         , SV
+         048, Venonat                     ,                    , True         , SV
+         049, Venomoth                    ,                    , True         , SV
+         050, Diglett                     ,                    , True         , SV
+          50, Diglett                     , Alolan             , True         , SV
+         051, Dugtrio                     ,                    , True         , SV
+          51, Dugtrio                     , Alolan             , True         , SV
+         052, Meowth                      ,                    , True         , SV
+          52, Meowth                      , Alolan             , True         , SV
+          52, Meowth                      , Galarian           , True         , SV
+         053, Persian                     ,                    , True         , SV
+          53, Persian                     , Alolan             , True         , SV
+         054, Psyduck                     ,                    , True         , SV
+         055, Golduck                     ,                    , True         , SV
+         056, Mankey                      ,                    , True         , SV
+         057, Primeape                    ,                    , True         , SV
+         058, Growlithe                   ,                    , True         , SV
+          58, Growlithe                   , Hisuian            , True         , SV
+         059, Arcanine                    ,                    , True         , SV
+          59, Arcanine                    , Hisuian            , True         , SV
+         060, Poliwag                     ,                    , True         , SV
+         061, Poliwhirl                   ,                    , True         , SV
+         062, Poliwrath                   ,                    , True         , SV
+         069, Bellsprout                  ,                    , True         , SV
+         070, Weepinbell                  ,                    , True         , SV
+         071, Victreebel                  ,                    , True         , SV
+         072, Tentacool                   ,                    , True         , SV
+         073, Tentacruel                  ,                    , True         , SV
+         074, Geodude                     ,                    , True         , SV
+          74, Geodude                     , Alolan             , True         , SV
+         075, Graveler                    ,                    , True         , SV
+          75, Graveler                    , Alolan             , True         , SV
+         076, Golem                       ,                    , True         , SV
+          76, Golem                       , Alolan             , True         , SV
+         079, Slowpoke                    ,                    , True         , SV
+          79, Slowpoke                    , Galarian           , True         , SV
+         080, Slowbro                     ,                    , True         , SV
+          80, Slowbro                     , Galarian           , True         , SV
+         081, Magnemite                   ,                    , True         , SV
+         082, Magneton                    ,                    , True         , SV
+         084, Doduo                       ,                    , True         , SV
+         085, Dodrio                      ,                    , True         , SV
+         086, Seel                        ,                    , True         , SV
+         087, Dewgong                     ,                    , True         , SV
+         088, Grimer                      ,                    , True         , SV
+          88, Grimer                      , Alolan             , True         , SV
+         089, Muk                         ,                    , True         , SV
+          89, Muk                         , Alolan             , True         , SV
+         090, Shellder                    ,                    , True         , SV
+         091, Cloyster                    ,                    , True         , SV
+         092, Gastly                      ,                    , True         , SV
+         093, Haunter                     ,                    , True         , SV
+         094, Gengar                      ,                    , True         , SV
+         096, Drowzee                     ,                    , True         , SV
+         097, Hypno                       ,                    , True         , SV
+         100, Voltorb                     ,                    , True         , SV
+         100, Voltorb                     , Hisuian            , True         , SV
+         101, Electrode                   ,                    , True         , SV
+         101, Electrode                   , Hisuian            , True         , SV
+         102, Exeggcute                   ,                    , True         , SV
+         103, Exeggutor                   ,                    , True         , SV
+         103, Exeggutor                   , Alolan             , True         , SV
+         106, Hitmonlee                   ,                    , True         , SV
+         107, Hitmonchan                  ,                    , True         , SV
+         109, Koffing                     ,                    , True         , SV
+         110, Weezing                     ,                    , True         , SV
+         110, Weezing                     , Galarian           , True         , SV
+         111, Rhyhorn                     ,                    , True         , SV
+         112, Rhydon                      ,                    , True         , SV
+         113, Chansey                     ,                    , True         , SV
+         116, Horsea                      ,                    , True         , SV
+         117, Seadra                      ,                    , True         , SV
+         123, Scyther                     ,                    , True         , SV
+         125, Electabuzz                  ,                    , True         , SV
+         126, Magmar                      ,                    , True         , SV
+         128, Tauros                      ,                    , True         , SV
+         128, Tauros      , Paldean            , True         , SV
+         128, Tauros, Blaze Breed, True         , SV
+         128, Tauros, Aqua Breed            , True         , SV
+         129, Magikarp                    ,                    , True         , SV
+         130, Gyarados                    ,                    , True         , SV
+         131, Lapras                      ,                    , True         , SV
+         132, Ditto                       ,                    , True         , SV
+         133, Eevee                       ,                    , True         , SV
+         134, Vaporeon                    ,                    , True         , SV
+         135, Jolteon                     ,                    , True         , SV
+         136, Flareon                     ,                    , True         , SV
+         137, Porygon                     ,                    , True         , SV
+         143, Snorlax                     ,                    , True         , SV
+         144, Articuno                    ,                    , True         , SV
+         144, Articuno                    , Galarian           , True         , SV
+         145, Zapdos                      ,                    , True         , SV
+         145, Zapdos                      , Galarian           , True         , SV
+         146, Moltres                     ,                    , True         , SV
+         146, Moltres                     , Galarian           , True         , SV
+         147, Dratini                     ,                    , True         , SV
+         148, Dragonair                   ,                    , True         , SV
+         149, Dragonite                   ,                    , True         , SV
+         150, Mewtwo                      ,                    , True         , SV
+         151, Mew                         ,                    , True         , SV
+         152, Chikorita                   ,                    , True         , SV
+         153, Bayleef                     ,                    , True         , SV
+         154, Meganium                    ,                    , True         , SV
+         155, Cyndaquil                   ,                    , True         , SV
+         156, Quilava                     ,                    , True         , SV
+         157, Typhlosion                  ,                    , True         , SV
+         157, Typhlosion                  , Hisuian            , True         , SV
+         158, Totodile                    ,                    , True         , SV
+         159, Croconaw                    ,                    , True         , SV
+         160, Feraligatr                  ,                    , True         , SV
+         161, Sentret                     ,                    , True         , SV
+         162, Furret                      ,                    , True         , SV
+         163, Hoothoot                    ,                    , True         , SV
+         164, Noctowl                     ,                    , True         , SV
+         167, Spinarak                    ,                    , True         , SV
+         168, Ariados                     ,                    , True         , SV
+         170, Chinchou                    ,                    , True         , SV
+         171, Lanturn                     ,                    , True         , SV
+         172, Pichu                       ,                    , True         , SV
+         173, Cleffa                      ,                    , True         , SV
+         174, Igglybuff                   ,                    , True         , SV
+         179, Mareep                      ,                    , True         , SV
+         180, Flaaffy                     ,                    , True         , SV
+         181, Ampharos                    ,                    , True         , SV
+         182, Bellossom                   ,                    , True         , SV
+         183, Marill                      ,                    , True         , SV
+         184, Azumarill                   ,                    , True         , SV
+         185, Sudowoodo                   ,                    , True         , SV
+         186, Politoed                    ,                    , True         , SV
+         187, Hoppip                      ,                    , True         , SV
+         188, Skiploom                    ,                    , True         , SV
+         189, Jumpluff                    ,                    , True         , SV
+         190, Aipom                       ,                    , True         , SV
+         191, Sunkern                     ,                    , True         , SV
+         192, Sunflora                    ,                    , True         , SV
+         193, Yanma                       ,                    , True         , SV
+         194, Wooper                      ,                    , True         , SV
+         194, Wooper                      , Paldean            , True         , SV
+         195, Quagsire                    ,                    , True         , SV
+         196, Espeon                      ,                    , True         , SV
+         197, Umbreon                     ,                    , True         , SV
+         198, Murkrow                     ,                    , True         , SV
+         199, Slowking                    ,                    , True         , SV
+         199, Slowking                    , Galarian           , True         , SV
+         200, Misdreavus                  ,                    , True         , SV
+         203, Girafarig                   ,                    , True         , SV
+         204, Pineco                      ,                    , True         , SV
+         205, Forretress                  ,                    , True         , SV
+         206, Dunsparce                   ,                    , True         , SV
+         207, Gligar                      ,                    , True         , SV
+         209, Snubbull                    ,                    , True         , SV
+         210, Granbull                    ,                    , True         , SV
+         211, Qwilfish                    ,                    , True         , SV
+         211, Qwilfish                    , Hisuian            , True         , SV
+         212, Scizor                      ,                    , True         , SV
+         214, Heracross                   ,                    , True         , SV
+         215, Sneasel                     ,                    , True         , SV
+         215, Sneasel                     , Hisuian            , True         , SV
+         216, Teddiursa                   ,                    , True         , SV
+         217, Ursaring                    ,                    , True         , SV
+         218, Slugma                      ,                    , True         , SV
+         219, Magcargo                    ,                    , True         , SV
+         220, Swinub                      ,                    , True         , SV
+         221, Piloswine                   ,                    , True         , SV
+         225, Delibird                    ,                    , True         , SV
+         227, Skarmory                    ,                    , True         , SV
+         228, Houndour                    ,                    , True         , SV
+         229, Houndoom                    ,                    , True         , SV
+         230, Kingdra                     ,                    , True         , SV
+         231, Phanpy                      ,                    , True         , SV
+         232, Donphan                     ,                    , True         , SV
+         233, Porygon2                    ,                    , True         , SV
+         234, Stantler                    ,                    , True         , SV
+         235, Smeargle                    ,                    , True         , SV
+         236, Tyrogue                     ,                    , True         , SV
+         237, Hitmontop                   ,                    , True         , SV
+         239, Elekid                      ,                    , True         , SV
+         240, Magby                       ,                    , True         , SV
+         242, Blissey                     ,                    , True         , SV
+         243, Raikou                      ,                    , True         , SV
+         244, Entei                       ,                    , True         , SV
+         245, Suicune                     ,                    , True         , SV
+         246, Larvitar                    ,                    , True         , SV
+         247, Pupitar                     ,                    , True         , SV
+         248, Tyranitar                   ,                    , True         , SV
+         249, Lugia                       ,                    , True         , SV
+         250, Ho-Oh                       ,                    , True         , SV
+         252, Treecko                     ,                    , True         , SV
+         253, Grovyle                     ,                    , True         , SV
+         254, Sceptile                    ,                    , True         , SV
+         255, Torchic                     ,                    , True         , SV
+         256, Combusken                   ,                    , True         , SV
+         257, Blaziken                    ,                    , True         , SV
+         258, Mudkip                      ,                    , True         , SV
+         259, Marshtomp                   ,                    , True         , SV
+         260, Swampert                    ,                    , True         , SV
+         261, Poochyena                   ,                    , True         , SV
+         262, Mightyena                   ,                    , True         , SV
+         270, Lotad                       ,                    , True         , SV
+         271, Lombre                      ,                    , True         , SV
+         272, Ludicolo                    ,                    , True         , SV
+         273, Seedot                      ,                    , True         , SV
+         274, Nuzleaf                     ,                    , True         , SV
+         275, Shiftry                     ,                    , True         , SV
+         278, Wingull                     ,                    , True         , SV
+         279, Pelipper                    ,                    , True         , SV
+         280, Ralts                       ,                    , True         , SV
+         281, Kirlia                      ,                    , True         , SV
+         282, Gardevoir                   ,                    , True         , SV
+         283, Surskit                     ,                    , True         , SV
+         284, Masquerain                  ,                    , True         , SV
+         285, Shroomish                   ,                    , True         , SV
+         286, Breloom                     ,                    , True         , SV
+         287, Slakoth                     ,                    , True         , SV
+         288, Vigoroth                    ,                    , True         , SV
+         289, Slaking                     ,                    , True         , SV
+         296, Makuhita                    ,                    , True         , SV
+         297, Hariyama                    ,                    , True         , SV
+         298, Azurill                     ,                    , True         , SV
+         299, Nosepass                    ,                    , True         , SV
+         302, Sableye                     ,                    , True         , SV
+         307, Meditite                    ,                    , True         , SV
+         308, Medicham                    ,                    , True         , SV
+         311, Plusle                      ,                    , True         , SV
+         312, Minun                       ,                    , True         , SV
+         313, Volbeat                     ,                    , True         , SV
+         314, Illumise                    ,                    , True         , SV
+         316, Gulpin                      ,                    , True         , SV
+         317, Swalot                      ,                    , True         , SV
+         322, Numel                       ,                    , True         , SV
+         323, Camerupt                    ,                    , True         , SV
+         324, Torkoal                     ,                    , True         , SV
+         325, Spoink                      ,                    , True         , SV
+         326, Grumpig                     ,                    , True         , SV
+         328, Trapinch                    ,                    , True         , SV
+         329, Vibrava                     ,                    , True         , SV
+         330, Flygon                      ,                    , True         , SV
+         331, Cacnea                      ,                    , True         , SV
+         332, Cacturne                    ,                    , True         , SV
+         333, Swablu                      ,                    , True         , SV
+         334, Altaria                     ,                    , True         , SV
+         335, Zangoose                    ,                    , True         , SV
+         336, Seviper                     ,                    , True         , SV
+         339, Barboach                    ,                    , True         , SV
+         340, Whiscash                    ,                    , True         , SV
+         341, Corphish                    ,                    , True         , SV
+         342, Crawdaunt                   ,                    , True         , SV
+         349, Feebas                      ,                    , True         , SV
+         350, Milotic                     ,                    , True         , SV
+         353, Shuppet                     ,                    , True         , SV
+         354, Banette                     ,                    , True         , SV
+         355, Duskull                     ,                    , True         , SV
+         356, Dusclops                    ,                    , True         , SV
+         357, Tropius                     ,                    , True         , SV
+         358, Chimecho                    ,                    , True         , SV
+         361, Snorunt                     ,                    , True         , SV
+         362, Glalie                      ,                    , True         , SV
+         370, Luvdisc                     ,                    , True         , SV
+         371, Bagon                       ,                    , True         , SV
+         372, Shelgon                     ,                    , True         , SV
+         373, Salamence                   ,                    , True         , SV
+         374, Beldum                      ,                    , True         , SV
+         375, Metang                      ,                    , True         , SV
+         376, Metagross                   ,                    , True         , SV
+         377, Regirock                    ,                    , True         , SV
+         378, Regice                      ,                    , True         , SV
+         379, Registeel                   ,                    , True         , SV
+         380, Latias                      ,                    , True         , SV
+         381, Latios                      ,                    , True         , SV
+         382, Kyogre                      ,                    , True         , SV
+         383, Groudon                     ,                    , True         , SV
+         384, Rayquaza                    ,                    , True         , SV
+         385, Jirachi                     ,                    , True         , SV
+         386, Deoxys       ,Normal Forme                    , True         , SV
+         386, Deoxys                      , Attack Forme       , True         , SV
+         386, Deoxys                      , Defense Forme      , True         , SV
+         386, Deoxys                      , Speed Forme        , True         , SV
+         387, Turtwig                     ,                    , True         , SV
+         388, Grotle                      ,                    , True         , SV
+         389, Torterra                    ,                    , True         , SV
+         390, Chimchar                    ,                    , True         , SV
+         391, Monferno                    ,                    , True         , SV
+         392, Infernape                   ,                    , True         , SV
+         393, Piplup                      ,                    , True         , SV
+         394, Prinplup                    ,                    , True         , SV
+         395, Empoleon                    ,                    , True         , SV
+         396, Starly                      ,                    , True         , SV
+         397, Staravia                    ,                    , True         , SV
+         398, Staraptor                   ,                    , True         , SV
+         401, Kricketot                   ,                    , True         , SV
+         402, Kricketune                  ,                    , True         , SV
+         403, Shinx                       ,                    , True         , SV
+         404, Luxio                       ,                    , True         , SV
+         405, Luxray                      ,                    , True         , SV
+         408, Cranidos                    ,                    , True         , SV
+         409, Rampardos                   ,                    , True         , SV
+         410, Shieldon                    ,                    , True         , SV
+         411, Bastiodon                   ,                    , True         , SV
+         415, Combee                      ,                    , True         , SV
+         416, Vespiquen                   ,                    , True         , SV
+         417, Pachirisu                   ,                    , True         , SV
+         418, Buizel                      ,                    , True         , SV
+         419, Floatzel                    ,                    , True         , SV
+         422, Shellos                     , East Sea           , True         , SV
+         422, Shellos                     , West Sea           , True         , SV
+         423, Gastrodon                   , East Sea           , True         , SV
+         423, Gastrodon                   , West Sea           , True         , SV
+         424, Ambipom                     ,                    , True         , SV
+         425, Drifloon                    ,                    , True         , SV
+         426, Drifblim                    ,                    , True         , SV
+         429, Mismagius                   ,                    , True         , SV
+         430, Honchkrow                   ,                    , True         , SV
+         433, Chingling                   ,                    , True         , SV
+         434, Stunky                      ,                    , True         , SV
+         435, Skuntank                    ,                    , True         , SV
+         436, Bronzor                     ,                    , True         , SV
+         437, Bronzong                    ,                    , True         , SV
+         438, Bonsly                      ,                    , True         , SV
+         440, Happiny                     ,                    , True         , SV
+         442, Spiritomb                   ,                    , True         , SV
+         443, Gible                       ,                    , True         , SV
+         444, Gabite                      ,                    , True         , SV
+         445, Garchomp                    ,                    , True         , SV
+         446, Munchlax                    ,                    , True         , SV
+         447, Riolu                       ,                    , True         , SV
+         448, Lucario                     ,                    , True         , SV
+         449, Hippopotas                  ,                    , True         , SV
+         450, Hippowdon                   ,                    , True         , SV
+         453, Croagunk                    ,                    , True         , SV
+         454, Toxicroak                   ,                    , True         , SV
+         456, Finneon                     ,                    , True         , SV
+         457, Lumineon                    ,                    , True         , SV
+         459, Snover                      ,                    , True         , SV
+         460, Abomasnow                   ,                    , True         , SV
+         461, Weavile                     ,                    , True         , SV
+         462, Magnezone                   ,                    , True         , SV
+         464, Rhyperior                   ,                    , True         , SV
+         466, Electivire                  ,                    , True         , SV
+         467, Magmortar                   ,                    , True         , SV
+         469, Yanmega                     ,                    , True         , SV
+         470, Leafeon                     ,                    , True         , SV
+         471, Glaceon                     ,                    , True         , SV
+         472, Gliscor                     ,                    , True         , SV
+         473, Mamoswine                   ,                    , True         , SV
+         474, Porygon-Z                   ,                    , True         , SV
+         475, Gallade                     ,                    , True         , SV
+         476, Probopass                   ,                    , True         , SV
+         477, Dusknoir                    ,                    , True         , SV
+         478, Froslass                    ,                    , True         , SV
+         479, Rotom                       ,                    , True         , SV
+         479, Rotom                       , Heat               , True         , SV
+         479, Rotom                       , Wash               , True         , SV
+         479, Rotom                       , Frost              , True         , SV
+         479, Rotom                       , Fan                , True         , SV
+         479, Rotom                       , Mow                , True         , SV
+         480, Uxie                        ,                    , True         , SV
+         481, Mesprit                     ,                    , True         , SV
+         482, Azelf                       ,                    , True         , SV
+         483, Dialga                      ,                    , True         , SV
+         483, Dialga                      , Origin Forme       , True         , SV
+         484, Palkia                      ,                    , True         , SV
+         484, Palkia                      , Origin Forme       , True         , SV
+         485, Heatran                     ,                    , True         , SV
+         486, Regigigas                   ,                    , True         , SV
+         487, Giratina                    , Altered Forme      , True         , SV
+         487, Giratina                    , Origin Forme       , True         , SV
+         488, Cresselia                   ,                    , True         , SV
+         489, Phione                      ,                    , True         , SV
+         490, Manaphy                     ,                    , True         , SV
+         491, Darkrai                     ,                    , True         , SV
+         492, Shaymin                     , Land Forme         , True         , SV
+         492, Shaymin                     , Sky Forme          , True         , SV
+         493, Arceus                      ,                    , True         , SV
+         495, Snivy                       ,                    , True         , SV
+         496, Servine                     ,                    , True         , SV
+         497, Serperior                   ,                    , True         , SV
+         498, Tepig                       ,                    , True         , SV
+         499, Pignite                     ,                    , True         , SV
+         500, Emboar                      ,                    , True         , SV
+         501, Oshawott                    ,                    , True         , SV
+         502, Dewott                      ,                    , True         , SV
+         503, Samurott                    ,                    , True         , SV
+         503, Samurott                    , Hisuian            , True         , SV
+         522, Blitzle                     ,                    , True         , SV
+         523, Zebstrika                   ,                    , True         , SV
+         529, Drilbur                     ,                    , True         , SV
+         530, Excadrill                   ,                    , True         , SV
+         532, Timburr                     ,                    , True         , SV
+         533, Gurdurr                     ,                    , True         , SV
+         534, Conkeldurr                  ,                    , True         , SV
+         540, Sewaddle                    ,                    , True         , SV
+         541, Swadloon                    ,                    , True         , SV
+         542, Leavanny                    ,                    , True         , SV
+         546, Cottonee                    ,                    , True         , SV
+         547, Whimsicott                  ,                    , True         , SV
+         548, Petilil                     ,                    , True         , SV
+         549, Lilligant                   ,                    , True         , SV
+         549, Lilligant                   , Hisuian            , True         , SV
+         550, Basculin                    ,                    , True         , SV
+         550, Basculin                    , White Striped Form , True         , SV
+         551, Sandile                     ,                    , True         , SV
+         552, Krokorok                    ,                    , True         , SV
+         553, Krookodile                  ,                    , True         , SV
+         559, Scraggy                     ,                    , True         , SV
+         560, Scrafty                     ,                    , True         , SV
+         570, Zorua                       ,                    , True         , SV
+         570, Zorua                       , Hisuian            , True         , SV
+         571, Zoroark                     ,                    , True         , SV
+         571, Zoroark                     , Hisuian            , True         , SV
+         572, Minccino                    ,                    , True         , SV
+         573, Cinccino                    ,                    , True         , SV
+         574, Gothita                     ,                    , True         , SV
+         575, Gothorita                   ,                    , True         , SV
+         576, Gothitelle                  ,                    , True         , SV
+         577, Solosis                     ,                    , True         , SV
+         578, Duosion                     ,                    , True         , SV
+         579, Reuniclus                   ,                    , True         , SV
+         580, Ducklett                    ,                    , True         , SV
+         581, Swanna                      ,                    , True         , SV
+         585, Deerling                    ,                    , True         , SV
+         586, Sawsbuck                    ,                    , True         , SV
+         590, Foongus                     ,                    , True         , SV
+         591, Amoonguss                   ,                    , True         , SV
+         594, Alomomola                   ,                    , True         , SV
+         595, Joltik                      ,                    , True         , SV
+         596, Galvantula                  ,                    , True         , SV
+         602, Tynamo                      ,                    , True         , SV
+         603, Eelektrik                   ,                    , True         , SV
+         604, Eelektross                  ,                    , True         , SV
+         607, Litwick                     ,                    , True         , SV
+         608, Lampent                     ,                    , True         , SV
+         609, Chandelure                  ,                    , True         , SV
+         610, Axew                        ,                    , True         , SV
+         611, Fraxure                     ,                    , True         , SV
+         612, Haxorus                     ,                    , True         , SV
+         613, Cubchoo                     ,                    , True         , SV
+         614, Beartic                     ,                    , True         , SV
+         615, Cryogonal                   ,                    , True         , SV
+         619, Mienfoo                     ,                    , True         , SV
+         620, Mienshao                    ,                    , True         , SV
+         622, Golett                      ,                    , True         , SV
+         623, Golurk                      ,                    , True         , SV
+         624, Pawniard                    ,                    , True         , SV
+         625, Bisharp                     ,                    , True         , SV
+         627, Rufflet                     ,                    , True         , SV
+         628, Braviary                    ,                    , True         , SV
+         628, Braviary                    , Hisuian            , True         , SV
+         629, Vullaby                     ,                    , True         , SV
+         630, Mandibuzz                   ,                    , True         , SV
+         633, Deino                       ,                    , True         , SV
+         634, Zweilous                    ,                    , True         , SV
+         635, Hydreigon                   ,                    , True         , SV
+         636, Larvesta                    ,                    , True         , SV
+         637, Volcarona                   ,                    , True         , SV
+         638, Cobalion                    ,                    , True         , SV
+         639, Terrakion                   ,                    , True         , SV
+         640, Virizion                    ,                    , True         , SV
+         641, Tornadus  ,                    , True         , SV
+         641, Tornadus                    , Therian Forme      , True         , SV
+         642, Thundurus ,                    , True         , SV
+         642, Thundurus                   , Therian Forme      , True         , SV
+         643, Reshiram                    ,                    , True         , SV
+         644, Zekrom                      ,                    , True         , SV
+         645, Landorus  ,                    , True         , SV
+         645, Landorus                    , Therian Forme      , True         , SV
+         646, Kyurem                      ,                    , True         , SV
+         646, White Kyurem                ,                    , True         , SV
+         646, Black Kyurem                ,                    , True         , SV
+         647, Keldeo                      ,                    , True         , SV
+         648, Meloetta       ,                    , True         , SV
+         650, Chespin                     ,                    , True         , SV
+         651, Quilladin                   ,                    , True         , SV
+         652, Chesnaught                  ,                    , True         , SV
+         653, Fennekin                    ,                    , True         , SV
+         654, Braixen                     ,                    , True         , SV
+         655, Delphox                     ,                    , True         , SV
+         656, Froakie                     ,                    , True         , SV
+         657, Frogadier                   ,                    , True         , SV
+         658, Greninja                    ,                    , True         , SV
+         661, Fletchling                  ,                    , True         , SV
+         662, Fletchinder                 ,                    , True         , SV
+         663, Talonflame                  ,                    , True         , SV
+         664, Scatterbug                  ,                    , True         , SV
+         665, Spewpa                      ,                    , True         , SV
+         666, Vivillon                    ,                    , True         , SV
+         667, Litleo                      ,                    , True         , SV
+         668, Pyroar                      ,                    , True         , SV
+         669, Flabebe                     ,                    , True         , SV
+         670, Floette                     ,                    , True         , SV
+         671, Florges                     ,                    , True         , SV
+         672, Skiddo                      ,                    , True         , SV
+         673, Gogoat                      ,                    , True         , SV
+         677, Espurr                      ,                    , True         , SV
+         678, Meowstic                    , Male               , True         , SV
+         678, Meowstic                    ,                    , True         , SV
+         686, Inkay                       ,                    , True         , SV
+         687, Malamar                     ,                    , True         , SV
+         690, Skrelp                      ,                    , True         , SV
+         691, Dragalge                    ,                    , True         , SV
+         692, Clauncher                   ,                    , True         , SV
+         693, Clawitzer                   ,                    , True         , SV
+         700, Sylveon                     ,                    , True         , SV
+         701, Hawlucha                    ,                    , True         , SV
+         702, Dedenne                     ,                    , True         , SV
+         703, Carbink                     ,                    , True         , SV
+         704, Goomy                       ,                    , True         , SV
+         705, Sliggoo                     ,                    , True         , SV
+         705, Sliggoo                     , Hisuian            , True         , SV
+         706, Goodra                      ,                    , True         , SV
+         706, Goodra                      , Hisuian            , True         , SV
+         707, Klefki                      ,                    , True         , SV
+         708, Phantump                    ,                    , True         , SV
+         709, Trevenant                   ,                    , True         , SV
+         712, Bergmite                    ,                    , True         , SV
+         713, Avalugg                     ,                    , True         , SV
+         713, Avalugg                     , Hisuian            , True         , SV
+         714, Noibat                      ,                    , True         , SV
+         715, Noivern                     ,                    , True         , SV
+         719, Diancie                     ,                    , True         , SV
+         720, Hoopa              ,                    , True         , SV
+         721, Volcanion                   ,                    , True         , SV
+         722, Rowlet                      ,                    , True         , SV
+         723, Dartrix                     ,                    , True         , SV
+         724, Decidueye                   ,                    , True         , SV
+         724, Decidueye                   , Hisuian            , True         , SV
+         725, Litten                      ,                    , True         , SV
+         726, Torracat                    ,                    , True         , SV
+         727, Incineroar                  ,                    , True         , SV
+         728, Popplio                     ,                    , True         , SV
+         729, Brionne                     ,                    , True         , SV
+         730, Primarina                   ,                    , True         , SV
+         731, Pikipek                     ,                    , True         , SV
+         732, Trumbeak                    ,                    , True         , SV
+         733, Toucannon                   ,                    , True         , SV
+         734, Yungoos                     ,                    , True         , SV
+         735, Gumshoos                    ,                    , True         , SV
+         736, Grubbin                     ,                    , True         , SV
+         737, Charjabug                   ,                    , True         , SV
+         738, Vikavolt                    ,                    , True         , SV
+         739, Crabrawler                  ,                    , True         , SV
+         740, Crabominable                ,                    , True         , SV
+         741, Oricorio                    , Baile Style        , True         , SV
+         741, Oricorio                    , Pa'u Style         , True         , SV
+         741, Oricorio                    , Pom-Pom Style      , True         , SV
+         741, Oricorio                    , Sensu Style        , True         , SV
+         742, Cutiefly                    ,                    , True         , SV
+         743, Ribombee                    ,                    , True         , SV
+         744, Rockruff                    ,                    , True         , SV
+         745, Lycanroc                    , Midday Form        , True         , SV
+         745, Lycanroc                    , Midnight Form      , True         , SV
+         745, Lycanroc                    , Dusk Form          , True         , SV
+         747, Mareanie                    ,                    , True         , SV
+         748, Toxapex                     ,                    , True         , SV
+         749, Mudbray                     ,                    , True         , SV
+         750, Mudsdale                    ,                    , True         , SV
+         751, Dewpider                    ,                    , True         , SV
+         752, Araquanid                   ,                    , True         , SV
+         753, Fomantis                    ,                    , True         , SV
+         754, Lurantis                    ,                    , True         , SV
+         757, Salandit                    ,                    , True         , SV
+         758, Salazzle                    ,                    , True         , SV
+         761, Bounsweet                   ,                    , True         , SV
+         762, Steenee                     ,                    , True         , SV
+         763, Tsareena                    ,                    , True         , SV
+         764, Comfey                      ,                    , True         , SV
+         765, Oranguru                    ,                    , True         , SV
+         766, Passimian                   ,                    , True         , SV
+         769, Sandygast                   ,                    , True         , SV
+         770, Palossand                   ,                    , True         , SV
+         774, Minior        ,                    , True         , SV
+         775, Komala                      ,                    , True         , SV
+         778, Mimikyu                     ,                    , True         , SV
+         779, Bruxish                     ,                    , True         , SV
+         782, Jangmo-o                    ,                    , True         , SV
+         783, Hakamo-o                    ,                    , True         , SV
+         784, Kommo-o                     ,                    , True         , SV
+         789, Cosmog                      ,                    , True         , SV
+         790, Cosmoem                     ,                    , True         , SV
+         791, Solgaleo                    ,                    , True         , SV
+         792, Lunala                      ,                    , True         , SV
+         800, Necrozma                    ,                    , True         , SV
+         800, Necrozma        ,Dusk Mane                    , True         , SV
+         800, Necrozma       ,Dawn Wings                    , True         , SV
+         801, Magearna                    ,                    , True         , SV
+         810, Grookey                     ,                    , True         , SV
+         811, Thwackey                    ,                    , True         , SV
+         812, Rillaboom                   ,                    , True         , SV
+         813, Scorbunny                   ,                    , True         , SV
+         814, Raboot                      ,                    , True         , SV
+         815, Cinderace                   ,                    , True         , SV
+         816, Sobble                      ,                    , True         , SV
+         817, Drizzile                    ,                    , True         , SV
+         818, Inteleon                    ,                    , True         , SV
+         819, Skwovet                     ,                    , True         , SV
+         820, Greedent                    ,                    , True         , SV
+         821, Rookidee                    ,                    , True         , SV
+         822, Corvisquire                 ,                    , True         , SV
+         823, Corviknight                 ,                    , True         , SV
+         833, Chewtle                     ,                    , True         , SV
+         834, Drednaw                     ,                    , True         , SV
+         837, Rolycoly                    ,                    , True         , SV
+         838, Carkol                      ,                    , True         , SV
+         839, Coalossal                   ,                    , True         , SV
+         840, Applin                      ,                    , True         , SV
+         841, Flapple                     ,                    , True         , SV
+         842, Appletun                    ,                    , True         , SV
+         843, Silicobra                   ,                    , True         , SV
+         844, Sandaconda                  ,                    , True         , SV
+         845, Cramorant                   ,                    , True         , SV
+         846, Arrokuda                    ,                    , True         , SV
+         847, Barraskewda                 ,                    , True         , SV
+         848, Toxel                       ,                    , True         , SV
+         849, Toxtricity                  , Amped Form         , True         , SV
+         849, Toxtricity                  , Low Key Form       , True         , SV
+         854, Sinistea                    ,                    , True         , SV
+         855, Polteageist                 ,                    , True         , SV
+         856, Hatenna                     ,                    , True         , SV
+         857, Hattrem                     ,                    , True         , SV
+         858, Hatterene                   ,                    , True         , SV
+         859, Impidimp                    ,                    , True         , SV
+         860, Morgrem                     ,                    , True         , SV
+         861, Grimmsnarl                  ,                    , True         , SV
+         863, Perrserker                  ,                    , True         , SV
+         868, Milcery                     ,                    , True         , SV
+         869, Alcremie                    ,                    , True         , SV
+         870, Falinks                     ,                    , True         , SV
+         871, Pincurchin                  ,                    , True         , SV
+         872, Snom                        ,                    , True         , SV
+         873, Frosmoth                    ,                    , True         , SV
+         874, Stonjourner                 ,                    , True         , SV
+         875, Eiscue           ,                    , True         , SV
+         876, Indeedee                    , Male               , True         , SV
+         876, Indeedee                    ,                    , True         , SV
+         877, Morpeko                     ,                    , True         , SV
+         878, Cufant                      ,                    , True         , SV
+         879, Copperajah                  ,                    , True         , SV
+         884, Duraludon                   ,                    , True         , SV
+         885, Dreepy                      ,                    , True         , SV
+         886, Drakloak                    ,                    , True         , SV
+         887, Dragapult                   ,                    , True         , SV
+         888, Zacian                      ,                    , True         , SV
+         889, Zamazenta                   ,                    , True         , SV
+         890, Eternatus                   ,                    , True         , SV
+         891, Kubfu                       ,                    , True         , SV
+         892, Urshifu                     , Single-Strike Style, True         , SV
+         892, Urshifu                     , Rapid-Strike Style , True         , SV
+         893, Zarude                      ,                    , True         , SV
+         894, Regieleki                   ,                    , True         , SV
+         895, Regidrago                   ,                    , True         , SV
+         896, Glastrier                   ,                    , True         , SV
+         897, Spectrier                   ,                    , True         , SV
+         898, Calyrex                     ,                    , True         , SV
+         898, Calyrex                     , Ice Rider          , True         , SV
+         898, Calyrex                     , Shadow Rider       , True         , SV
+         899, Wyrdeer                     ,                    , True         , SV
+         900, Kleavor                     ,                    , True         , SV
+         901, Ursaluna                    ,                    , True         , SV
+         901, Bloodmoon Ursaluna          ,                    , True         , SV
+         902, Basculegion                 , Male               , True         , SV
+         902, Basculegion                 ,                    , True         , SV
+         903, Sneasler                    ,                    , True         , SV
+         904, Overqwil                    ,                    , True         , SV
+         905, Enamorus ,                    , True         , SV
+         905, Enamorus                    , Therian Forme      , True         , SV
+         906, Sprigatito                  ,                    , True         , SV
+         907, Floragato                   ,                    , True         , SV
+         908, Meowscarada                 ,                    , True         , SV
+         909, Fuecoco                     ,                    , True         , SV
+         910, Crocalor                    ,                    , True         , SV
+         911, Skeledirge                  ,                    , True         , SV
+         912, Quaxly                      ,                    , True         , SV
+         913, Quaxwell                    ,                    , True         , SV
+         914, Quaquaval                   ,                    , True         , SV
+         915, Lechonk                     ,                    , True         , SV
+         916, Oinkologne                  ,                    , True         , SV
+         916, Oinkologne                  , Male               , True         , SV
+         917, Tarountula                  ,                    , True         , SV
+         918, Spidops                     ,                    , True         , SV
+         919, Nymble                      ,                    , True         , SV
+         920, Lokix                       ,                    , True         , SV
+         921, Pawmi                       ,                    , True         , SV
+         922, Pawmo                       ,                    , True         , SV
+         923, Pawmot                      ,                    , True         , SV
+         924, Tandemaus                   ,                    , True         , SV
+         925, Maushold                    ,                    , True         , SV
+         926, Fidough                     ,                    , True         , SV
+         927, Dachsbun                    ,                    , True         , SV
+         928, Smoliv                      ,                    , True         , SV
+         929, Dolliv                      ,                    , True         , SV
+         930, Arboliva                    ,                    , True         , SV
+         931, Squawkabilly                ,                    , True         , SV
+         932, Nacli                       ,                    , True         , SV
+         933, Naclstack                   ,                    , True         , SV
+         934, Garganacl                   ,                    , True         , SV
+         935, Charcadet                   ,                    , True         , SV
+         936, Armarouge                   ,                    , True         , SV
+         937, Ceruledge                   ,                    , True         , SV
+         938, Tadbulb                     ,                    , True         , SV
+         939, Bellibolt                   ,                    , True         , SV
+         940, Wattrel                     ,                    , True         , SV
+         941, Kilowattrel                 ,                    , True         , SV
+         942, Maschiff                    ,                    , True         , SV
+         943, Mabosstiff                  ,                    , True         , SV
+         944, Shroodle                    ,                    , True         , SV
+         945, Grafaiai                    ,                    , True         , SV
+         946, Bramblin                    ,                    , True         , SV
+         947, Brambleghast                ,                    , True         , SV
+         948, Toedscool                   ,                    , True         , SV
+         949, Toedscruel                  ,                    , True         , SV
+         950, Klawf                       ,                    , True         , SV
+         951, Capsakid                    ,                    , True         , SV
+         952, Scovillain                  ,                    , True         , SV
+         953, Rellor                      ,                    , True         , SV
+         954, Rabsca                      ,                    , True         , SV
+         955, Flittle                     ,                    , True         , SV
+         956, Espathra                    ,                    , True         , SV
+         957, Tinkatink                   ,                    , True         , SV
+         958, Tinkatuff                   ,                    , True         , SV
+         959, Tinkaton                    ,                    , True         , SV
+         960, Wiglett                     ,                    , True         , SV
+         961, Wugtrio                     ,                    , True         , SV
+         962, Bombirdier                  ,                    , True         , SV
+         963, Finizen                     ,                    , True         , SV
+         964, Palafin                     ,                    , True         , SV
+         965, Varoom                      ,                    , True         , SV
+         966, Revavroom                   ,                    , True         , SV
+         967, Cyclizar                    ,                    , True         , SV
+         968, Orthworm                    ,                    , True         , SV
+         969, Glimmet                     ,                    , True         , SV
+         970, Glimmora                    ,                    , True         , SV
+         971, Greavard                    ,                    , True         , SV
+         972, Houndstone                  ,                    , True         , SV
+         973, Flamigo                     ,                    , True         , SV
+         974, Cetoddle                    ,                    , True         , SV
+         975, Cetitan                     ,                    , True         , SV
+         976, Veluza                      ,                    , True         , SV
+         977, Dondozo                     ,                    , True         , SV
+         978, Tatsugiri                   ,                    , True         , SV
+         979, Annihilape                  ,                    , True         , SV
+         980, Clodsire                    ,                    , True         , SV
+         981, Farigiraf                   ,                    , True         , SV
+         982, Dudunsparce                 ,                    , True         , SV
+         983, Kingambit                   ,                    , True         , SV
+         984, Great Tusk                  ,                    , True         , SV
+         985, Scream Tail                 ,                    , True         , SV
+         986, Brute Bonnet                ,                    , True         , SV
+         987, Flutter Mane                ,                    , True         , SV
+         988, Slither Wing                ,                    , True         , SV
+         989, Sandy Shocks                ,                    , True         , SV
+         990, Iron Treads                 ,                    , True         , SV
+         991, Iron Bundle                 ,                    , True         , SV
+         992, Iron Hands                  ,                    , True         , SV
+         993, Iron Jugulis                ,                    , True         , SV
+         994, Iron Moth                   ,                    , True         , SV
+         995, Iron Thorns                 ,                    , True         , SV
+         996, Frigibax                    ,                    , True         , SV
+         997, Arctibax                    ,                    , True         , SV
+         998, Baxcalibur                  ,                    , True         , SV
+         999, Gimmighoul                  , Chest Form         , True         , SV
+        1000, Gholdengo                   ,                    , True         , SV
+        1001, Wo-Chien                    ,                    , True         , SV
+        1002, Chien-Pao                   ,                    , True         , SV
+        1003, Ting-Lu                     ,                    , True         , SV
+        1004, Chi-Yu                      ,                    , True         , SV
+        1005, Roaring Moon                ,                    , True         , SV
+        1006, Iron Valiant                ,                    , True         , SV
+        1007, Koraidon                    ,                    , True         , SV
+        1008, Miraidon                    ,                    , True         , SV
+        1009, Walking Wake                ,                    , True         , SV
+        1010, Iron Leaves                 ,                    , True         , SV
+        1011, Dipplin                     ,                    , True         , SV
+        1012, Poltchageist                ,                    , True         , SV
+        1013, Sinistcha                   ,                    , True         , SV
+        1014, Okidogi                     ,                    , True         , SV
+        1015, Munkidori                   ,                    , True         , SV
+        1016, Fezandipiti                 ,                    , True         , SV
+        1017, Ogerpon                     ,                    , True         , SV
+        1018, Archaludon                  ,                    , True         , SV
+        1019, Hydrapple                   ,                    , True         , SV
+        1020, Gouging Fire                ,                    , True         , SV
+        1021, Raging Bolt                 ,                    , True         , SV
+        1022, Iron Boulder                ,                    , True         , SV
+        1023, Iron Crown                  ,                    , True         , SV
+        1024, Terapagos                   ,                    , True         , SV
+        1025, Pecharunt                   ,                    , True         , SV
