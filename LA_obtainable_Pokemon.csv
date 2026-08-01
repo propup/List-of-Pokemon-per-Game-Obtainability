@@ -1,0 +1,262 @@
+Pokemon    , Form         , Series, National_Dex
+Rowlet     ,              , LA    ,          722
+Dartrix    ,              , LA    ,          723
+Decidueye  , Hisuian      , LA    ,          724
+Cyndaquil  ,              , LA    ,          155
+Quilava    ,              , LA    ,          156
+Typhlosion , Hisuian      , LA    ,          157
+Oshawott   ,              , LA    ,          501
+Dewott     ,              , LA    ,          502
+Samurott   , Hisuian      , LA    ,          503
+Bidoof     ,              , LA    ,          399
+Bibarel    ,              , LA    ,          400
+Starly     ,              , LA    ,          396
+Staravia   ,              , LA    ,          397
+Staraptor  ,              , LA    ,          398
+Shinx      ,              , LA    ,          403
+Luxio      ,              , LA    ,          404
+Luxray     ,              , LA    ,          405
+Wurmple    ,              , LA    ,          265
+Silcoon    ,              , LA    ,          266
+Beautifly  ,              , LA    ,          267
+Cascoon    ,              , LA    ,          268
+Dustox     ,              , LA    ,          269
+Ponyta     ,              , LA    ,           77
+Rapidash   ,              , LA    ,           78
+Eevee      ,              , LA    ,          133
+Vaporeon   ,              , LA    ,          134
+Jolteon    ,              , LA    ,          135
+Flareon    ,              , LA    ,          136
+Espeon     ,              , LA    ,          196
+Umbreon    ,              , LA    ,          197
+Leafeon    ,              , LA    ,          470
+Glaceon    ,              , LA    ,          471
+Sylveon    ,              , LA    ,          700
+Zubat      ,              , LA    ,           41
+Golbat     ,              , LA    ,           42
+Crobat     ,              , LA    ,          169
+Drifloon   ,              , LA    ,          425
+Drifblim   ,              , LA    ,          426
+Kricketot  ,              , LA    ,          401
+Kricketune ,              , LA    ,          402
+Buizel     ,              , LA    ,          418
+Floatzel   ,              , LA    ,          419
+Burmy      ,              , LA    ,          412
+Wormadam   ,              , LA    ,          413
+Wormadam   , Sandy Cloak  , LA    ,          413
+Wormadam   , Trash Cloak  , LA    ,          413
+Mothim     ,              , LA    ,          414
+Geodude    ,              , LA    ,           74
+Graveler   ,              , LA    ,           75
+Golem      ,              , LA    ,           76
+Stantler   ,              , LA    ,          234
+Wyrdeer    ,              , LA    ,          899
+Munchlax   ,              , LA    ,          446
+Snorlax    ,              , LA    ,          143
+Paras      ,              , LA    ,           46
+Parasect   ,              , LA    ,           47
+Pichu      ,              , LA    ,          172
+Pikachu    ,              , LA    ,           25
+Raichu     ,              , LA    ,           26
+Abra       ,              , LA    ,           63
+Kadabra    ,              , LA    ,           64
+Alakazam   ,              , LA    ,           65
+Chimchar   ,              , LA    ,          390
+Monferno   ,              , LA    ,          391
+Infernape  ,              , LA    ,          392
+Buneary    ,              , LA    ,          427
+Lopunny    ,              , LA    ,          428
+Cherubi    ,              , LA    ,          420
+Cherrim    ,              , LA    ,          421
+Psyduck    ,              , LA    ,           54
+Golduck    ,              , LA    ,           55
+Combee     ,              , LA    ,          415
+Vespiquen  ,              , LA    ,          416
+Scyther    ,              , LA    ,          123
+Kleavor    ,              , LA    ,          900
+Scizor     ,              , LA    ,          212
+Heracross  ,              , LA    ,          214
+Mime Jr.   ,              , LA    ,          439
+Mr. Mime   ,              , LA    ,          122
+Aipom      ,              , LA    ,          190
+Ambipom    ,              , LA    ,          424
+Magikarp   ,              , LA    ,          129
+Gyarados   ,              , LA    ,          130
+Shellos    ,              , LA    ,          422
+Gastrodon  ,              , LA    ,          423
+Qwilfish   , Hisuian      , LA    ,          211
+Overqwil   ,              , LA    ,          904
+Happiny    ,              , LA    ,          440
+Chansey    ,              , LA    ,          113
+Blissey    ,              , LA    ,          242
+Budew      ,              , LA    ,          406
+Roselia    ,              , LA    ,          315
+Roserade   ,              , LA    ,          407
+Carnivine  ,              , LA    ,          455
+Petilil    ,              , LA    ,          548
+Lilligant  , Hisuian      , LA    ,          549
+Tangela    ,              , LA    ,          114
+Tangrowth  ,              , LA    ,          465
+Barboach   ,              , LA    ,          339
+Whiscash   ,              , LA    ,          340
+Croagunk   ,              , LA    ,          453
+Toxicroak  ,              , LA    ,          454
+Ralts      ,              , LA    ,          280
+Kirlia     ,              , LA    ,          281
+Gardevoir  ,              , LA    ,          282
+Gallade    ,              , LA    ,          475
+Yanma      ,              , LA    ,          193
+Yanmega    ,              , LA    ,          469
+Hippopotas ,              , LA    ,          449
+Hippowdon  ,              , LA    ,          450
+Pachirisu  ,              , LA    ,          417
+Stunky     ,              , LA    ,          434
+Skuntank   ,              , LA    ,          435
+Teddiursa  ,              , LA    ,          216
+Ursaring   ,              , LA    ,          217
+Ursaluna   ,              , LA    ,          901
+Goomy      ,              , LA    ,          704
+Sliggoo    , Hisuian      , LA    ,          705
+Goodra     , Hisuian      , LA    ,          706
+Onix       ,              , LA    ,           95
+Steelix    ,              , LA    ,          208
+Rhyhorn    ,              , LA    ,          111
+Rhydon     ,              , LA    ,          112
+Rhyperior  ,              , LA    ,          464
+Bonsly     ,              , LA    ,          438
+Sudowoodo  ,              , LA    ,          185
+Lickitung  ,              , LA    ,          108
+Lickilicky ,              , LA    ,          463
+Togepi     ,              , LA    ,          175
+Togetic    ,              , LA    ,          176
+Togekiss   ,              , LA    ,          468
+Turtwig    ,              , LA    ,          387
+Grotle     ,              , LA    ,          388
+Torterra   ,              , LA    ,          389
+Porygon    ,              , LA    ,          137
+Porygon2   ,              , LA    ,          233
+Porygon-Z  ,              , LA    ,          474
+Gastly     ,              , LA    ,           92
+Haunter    ,              , LA    ,           93
+Gengar     ,              , LA    ,           94
+Spiritomb  ,              , LA    ,          442
+Murkrow    ,              , LA    ,          198
+Honchkrow  ,              , LA    ,          430
+Unown      ,              , LA    ,          201
+Spheal     ,              , LA    ,          363
+Sealeo     ,              , LA    ,          364
+Walrein    ,              , LA    ,          365
+Remoraid   ,              , LA    ,          223
+Octillery  ,              , LA    ,          224
+Skorupi    ,              , LA    ,          451
+Drapion    ,              , LA    ,          452
+Growlithe  , Hisuian      , LA    ,           58
+Arcanine   , Hisuian      , LA    ,           59
+Glameow    ,              , LA    ,          431
+Purugly    ,              , LA    ,          432
+Machop     ,              , LA    ,           66
+Machoke    ,              , LA    ,           67
+Machamp    ,              , LA    ,           68
+Chatot     ,              , LA    ,          441
+Duskull    ,              , LA    ,          355
+Dusclops   ,              , LA    ,          356
+Dusknoir   ,              , LA    ,          477
+Piplup     ,              , LA    ,          393
+Prinplup   ,              , LA    ,          394
+Empoleon   ,              , LA    ,          395
+Mantyke    ,              , LA    ,          458
+Mantine    ,              , LA    ,          226
+Basculin   ,              , LA    ,          550
+Basculegion,              , LA    ,          902
+Basculegion, Female       , LA    ,          902
+Vulpix     ,              , LA    ,           37
+Vulpix     , Alolan       , LA    ,           37
+Ninetales  ,              , LA    ,           38
+Ninetales  , Alolan       , LA    ,           38
+Tentacool  ,              , LA    ,           72
+Tentacruel ,              , LA    ,           73
+Finneon    ,              , LA    ,          456
+Lumineon   ,              , LA    ,          457
+Magby      ,              , LA    ,          240
+Magmar     ,              , LA    ,          126
+Magmortar  ,              , LA    ,          467
+Magnemite  ,              , LA    ,           81
+Magneton   ,              , LA    ,           82
+Magnezone  ,              , LA    ,          462
+Bronzor    ,              , LA    ,          436
+Bronzong   ,              , LA    ,          437
+Elekid     ,              , LA    ,          239
+Electabuzz ,              , LA    ,          125
+Electivire ,              , LA    ,          466
+Gligar     ,              , LA    ,          207
+Gliscor    ,              , LA    ,          472
+Gible      ,              , LA    ,          443
+Gabite     ,              , LA    ,          444
+Garchomp   ,              , LA    ,          445
+Nosepass   ,              , LA    ,          299
+Probopass  ,              , LA    ,          476
+Voltorb    , Hisuian      , LA    ,          100
+Electrode  , Hisuian      , LA    ,          101
+Rotom      ,              , LA    ,          479
+Rotom      , Heat         , LA    ,          479
+Rotom      , Wash         , LA    ,          479
+Rotom      , Frost        , LA    ,          479
+Rotom      , Fan          , LA    ,          479
+Rotom      , Mow          , LA    ,          479
+Chingling  ,              , LA    ,          433
+Chimecho   ,              , LA    ,          358
+Misdreavus ,              , LA    ,          200
+Mismagius  ,              , LA    ,          429
+Cleffa     ,              , LA    ,          173
+Clefairy   ,              , LA    ,           35
+Clefable   ,              , LA    ,           36
+Sneasel    ,              , LA    ,          215
+Sneasel    , Hisuian      , LA    ,          215
+Sneasler   ,              , LA    ,          903
+Weavile    ,              , LA    ,          461
+Snorunt    ,              , LA    ,          361
+Glalie     ,              , LA    ,          362
+Froslass   ,              , LA    ,          478
+Cranidos   ,              , LA    ,          408
+Rampardos  ,              , LA    ,          409
+Shieldon   ,              , LA    ,          410
+Bastiodon  ,              , LA    ,          411
+Swinub     ,              , LA    ,          220
+Piloswine  ,              , LA    ,          221
+Mamoswine  ,              , LA    ,          473
+Bergmite   ,              , LA    ,          712
+Avalugg    , Hisuian      , LA    ,          713
+Snover     ,              , LA    ,          459
+Abomasnow  ,              , LA    ,          460
+Zorua      , Hisuian      , LA    ,          570
+Zoroark    , Hisuian      , LA    ,          571
+Rufflet    ,              , LA    ,          627
+Braviary   , Hisuian      , LA    ,          628
+Riolu      ,              , LA    ,          447
+Lucario    ,              , LA    ,          448
+Uxie       ,              , LA    ,          480
+Mesprit    ,              , LA    ,          481
+Azelf      ,              , LA    ,          482
+Heatran    ,              , LA    ,          485
+Regigigas  ,              , LA    ,          486
+Cresselia  ,              , LA    ,          488
+Tornadus   ,              , LA    ,          641
+Tornadus   , Therian Forme, LA    ,          641
+Thundurus  ,              , LA    ,          642
+Thundurus  , Therian Forme, LA    ,          642
+Landorus   ,              , LA    ,          645
+Landorus   , Therian Forme, LA    ,          645
+Enamorus   ,              , LA    ,          905
+Enamorus   , Therian Forme, LA    ,          905
+Dialga     ,              , LA    ,          483
+Dialga     , Origin Forme , LA    ,          483
+Palkia     ,              , LA    ,          484
+Palkia     , Origin Forme , LA    ,          484
+Giratina   ,              , LA    ,          487
+Giratina   , Origin Forme , LA    ,          487
+Phione     ,              , LA    ,          489
+Manaphy    ,              , LA    ,          490
+Arceus     ,              , LA    ,          493
+Shaymin    ,              , LA    ,          492
+Shaymin    , Sky Forme    , LA    ,          492
+Darkrai    ,              , LA    ,          491
