@@ -1,0 +1,262 @@
+National_Dex, Pokemon    , Form         , Obtainability, Series
+         001, Rowlet     ,              , True         , LA
+         002, Dartrix    ,              , True         , LA
+         003, Decidueye  , Hisuian      , True         , LA
+         004, Cyndaquil  ,              , True         , LA
+         005, Quilava    ,              , True         , LA
+         006, Typhlosion , Hisuian      , True         , LA
+         007, Oshawott   ,              , True         , LA
+         008, Dewott     ,              , True         , LA
+         009, Samurott   , Hisuian      , True         , LA
+         010, Bidoof     ,              , True         , LA
+         011, Bibarel    ,              , True         , LA
+         012, Starly     ,              , True         , LA
+         013, Staravia   ,              , True         , LA
+         014, Staraptor  ,              , True         , LA
+         015, Shinx      ,              , True         , LA
+         016, Luxio      ,              , True         , LA
+         017, Luxray     ,              , True         , LA
+         018, Wurmple    ,              , True         , LA
+         019, Silcoon    ,              , True         , LA
+         020, Beautifly  ,              , True         , LA
+         021, Cascoon    ,              , True         , LA
+         022, Dustox     ,              , True         , LA
+         023, Ponyta     ,              , True         , LA
+         024, Rapidash   ,              , True         , LA
+         025, Eevee      ,              , True         , LA
+         026, Vaporeon   ,              , True         , LA
+         027, Jolteon    ,              , True         , LA
+         028, Flareon    ,              , True         , LA
+         029, Espeon     ,              , True         , LA
+         030, Umbreon    ,              , True         , LA
+         031, Leafeon    ,              , True         , LA
+         032, Glaceon    ,              , True         , LA
+         033, Sylveon    ,              , True         , LA
+         034, Zubat      ,              , True         , LA
+         035, Golbat     ,              , True         , LA
+         036, Crobat     ,              , True         , LA
+         037, Drifloon   ,              , True         , LA
+         038, Drifblim   ,              , True         , LA
+         039, Kricketot  ,              , True         , LA
+         040, Kricketune ,              , True         , LA
+         041, Buizel     ,              , True         , LA
+         042, Floatzel   ,              , True         , LA
+         043, Burmy      ,              , True         , LA
+         044, Wormadam   ,              , True         , LA
+          44, Wormadam   , Sandy Cloak  , True         , LA
+          44, Wormadam   , Trash Cloak  , True         , LA
+         045, Mothim     ,              , True         , LA
+         046, Geodude    ,              , True         , LA
+         047, Graveler   ,              , True         , LA
+         048, Golem      ,              , True         , LA
+         049, Stantler   ,              , True         , LA
+         050, Wyrdeer    ,              , True         , LA
+         051, Munchlax   ,              , True         , LA
+         052, Snorlax    ,              , True         , LA
+         053, Paras      ,              , True         , LA
+         054, Parasect   ,              , True         , LA
+         055, Pichu      ,              , True         , LA
+         056, Pikachu    ,              , True         , LA
+         057, Raichu     ,              , True         , LA
+         058, Abra       ,              , True         , LA
+         059, Kadabra    ,              , True         , LA
+         060, Alakazam   ,              , True         , LA
+         061, Chimchar   ,              , True         , LA
+         062, Monferno   ,              , True         , LA
+         063, Infernape  ,              , True         , LA
+         064, Buneary    ,              , True         , LA
+         065, Lopunny    ,              , True         , LA
+         066, Cherubi    ,              , True         , LA
+         067, Cherrim    ,              , True         , LA
+         068, Psyduck    ,              , True         , LA
+         069, Golduck    ,              , True         , LA
+         070, Combee     ,              , True         , LA
+         071, Vespiquen  ,              , True         , LA
+         072, Scyther    ,              , True         , LA
+         073, Kleavor    ,              , True         , LA
+         074, Scizor     ,              , True         , LA
+         075, Heracross  ,              , True         , LA
+         076, Mime Jr.   ,              , True         , LA
+         077, Mr. Mime   ,              , True         , LA
+         078, Aipom      ,              , True         , LA
+         079, Ambipom    ,              , True         , LA
+         080, Magikarp   ,              , True         , LA
+         081, Gyarados   ,              , True         , LA
+         082, Shellos    ,              , True         , LA
+         083, Gastrodon  ,              , True         , LA
+         084, Qwilfish   , Hisuian      , True         , LA
+         085, Overqwil   ,              , True         , LA
+         086, Happiny    ,              , True         , LA
+         087, Chansey    ,              , True         , LA
+         088, Blissey    ,              , True         , LA
+         089, Budew      ,              , True         , LA
+         090, Roselia    ,              , True         , LA
+         091, Roserade   ,              , True         , LA
+         092, Carnivine  ,              , True         , LA
+         093, Petilil    ,              , True         , LA
+         094, Lilligant  , Hisuian      , True         , LA
+         095, Tangela    ,              , True         , LA
+         096, Tangrowth  ,              , True         , LA
+         097, Barboach   ,              , True         , LA
+         098, Whiscash   ,              , True         , LA
+         099, Croagunk   ,              , True         , LA
+         100, Toxicroak  ,              , True         , LA
+         101, Ralts      ,              , True         , LA
+         102, Kirlia     ,              , True         , LA
+         103, Gardevoir  ,              , True         , LA
+         104, Gallade    ,              , True         , LA
+         105, Yanma      ,              , True         , LA
+         106, Yanmega    ,              , True         , LA
+         107, Hippopotas ,              , True         , LA
+         108, Hippowdon  ,              , True         , LA
+         109, Pachirisu  ,              , True         , LA
+         110, Stunky     ,              , True         , LA
+         111, Skuntank   ,              , True         , LA
+         112, Teddiursa  ,              , True         , LA
+         113, Ursaring   ,              , True         , LA
+         114, Ursaluna   ,              , True         , LA
+         115, Goomy      ,              , True         , LA
+         116, Sliggoo    , Hisuian      , True         , LA
+         117, Goodra     , Hisuian      , True         , LA
+         118, Onix       ,              , True         , LA
+         119, Steelix    ,              , True         , LA
+         120, Rhyhorn    ,              , True         , LA
+         121, Rhydon     ,              , True         , LA
+         122, Rhyperior  ,              , True         , LA
+         123, Bonsly     ,              , True         , LA
+         124, Sudowoodo  ,              , True         , LA
+         125, Lickitung  ,              , True         , LA
+         126, Lickilicky ,              , True         , LA
+         127, Togepi     ,              , True         , LA
+         128, Togetic    ,              , True         , LA
+         129, Togekiss   ,              , True         , LA
+         130, Turtwig    ,              , True         , LA
+         131, Grotle     ,              , True         , LA
+         132, Torterra   ,              , True         , LA
+         133, Porygon    ,              , True         , LA
+         134, Porygon2   ,              , True         , LA
+         135, Porygon-Z  ,              , True         , LA
+         136, Gastly     ,              , True         , LA
+         137, Haunter    ,              , True         , LA
+         138, Gengar     ,              , True         , LA
+         139, Spiritomb  ,              , True         , LA
+         140, Murkrow    ,              , True         , LA
+         141, Honchkrow  ,              , True         , LA
+         142, Unown      ,              , True         , LA
+         143, Spheal     ,              , True         , LA
+         144, Sealeo     ,              , True         , LA
+         145, Walrein    ,              , True         , LA
+         146, Remoraid   ,              , True         , LA
+         147, Octillery  ,              , True         , LA
+         148, Skorupi    ,              , True         , LA
+         149, Drapion    ,              , True         , LA
+         150, Growlithe  , Hisuian      , True         , LA
+         151, Arcanine   , Hisuian      , True         , LA
+         152, Glameow    ,              , True         , LA
+         153, Purugly    ,              , True         , LA
+         154, Machop     ,              , True         , LA
+         155, Machoke    ,              , True         , LA
+         156, Machamp    ,              , True         , LA
+         157, Chatot     ,              , True         , LA
+         158, Duskull    ,              , True         , LA
+         159, Dusclops   ,              , True         , LA
+         160, Dusknoir   ,              , True         , LA
+         161, Piplup     ,              , True         , LA
+         162, Prinplup   ,              , True         , LA
+         163, Empoleon   ,              , True         , LA
+         164, Mantyke    ,              , True         , LA
+         165, Mantine    ,              , True         , LA
+         166, Basculin   ,              , True         , LA
+         167, Basculegion,              , True         , LA
+         167, Basculegion,              , True         , LA
+         168, Vulpix     ,              , True         , LA
+         168, Vulpix     , Alolan       , True         , LA
+         169, Ninetales  ,              , True         , LA
+         169, Ninetales  , Alolan       , True         , LA
+         170, Tentacool  ,              , True         , LA
+         171, Tentacruel ,              , True         , LA
+         172, Finneon    ,              , True         , LA
+         173, Lumineon   ,              , True         , LA
+         174, Magby      ,              , True         , LA
+         175, Magmar     ,              , True         , LA
+         176, Magmortar  ,              , True         , LA
+         177, Magnemite  ,              , True         , LA
+         178, Magneton   ,              , True         , LA
+         179, Magnezone  ,              , True         , LA
+         180, Bronzor    ,              , True         , LA
+         181, Bronzong   ,              , True         , LA
+         182, Elekid     ,              , True         , LA
+         183, Electabuzz ,              , True         , LA
+         184, Electivire ,              , True         , LA
+         185, Gligar     ,              , True         , LA
+         186, Gliscor    ,              , True         , LA
+         187, Gible      ,              , True         , LA
+         188, Gabite     ,              , True         , LA
+         189, Garchomp   ,              , True         , LA
+         190, Nosepass   ,              , True         , LA
+         191, Probopass  ,              , True         , LA
+         192, Voltorb    , Hisuian      , True         , LA
+         193, Electrode  , Hisuian      , True         , LA
+         194, Rotom      ,              , True         , LA
+         194, Rotom      , Heat         , True         , LA
+         194, Rotom      , Wash         , True         , LA
+         194, Rotom      , Frost        , True         , LA
+         194, Rotom      , Fan          , True         , LA
+         194, Rotom      , Mow          , True         , LA
+         195, Chingling  ,              , True         , LA
+         196, Chimecho   ,              , True         , LA
+         197, Misdreavus ,              , True         , LA
+         198, Mismagius  ,              , True         , LA
+         199, Cleffa     ,              , True         , LA
+         200, Clefairy   ,              , True         , LA
+         201, Clefable   ,              , True         , LA
+         202, Sneasel    ,              , True         , LA
+         202, Sneasel    , Hisuian      , True         , LA
+         203, Sneasler   ,              , True         , LA
+         204, Weavile    ,              , True         , LA
+         205, Snorunt    ,              , True         , LA
+         206, Glalie     ,              , True         , LA
+         207, Froslass   ,              , True         , LA
+         208, Cranidos   ,              , True         , LA
+         209, Rampardos  ,              , True         , LA
+         210, Shieldon   ,              , True         , LA
+         211, Bastiodon  ,              , True         , LA
+         212, Swinub     ,              , True         , LA
+         213, Piloswine  ,              , True         , LA
+         214, Mamoswine  ,              , True         , LA
+         215, Bergmite   ,              , True         , LA
+         216, Avalugg    , Hisuian      , True         , LA
+         217, Snover     ,              , True         , LA
+         218, Abomasnow  ,              , True         , LA
+         219, Zorua      , Hisuian      , True         , LA
+         220, Zoroark    , Hisuian      , True         , LA
+         221, Rufflet    ,              , True         , LA
+         222, Braviary   , Hisuian      , True         , LA
+         223, Riolu      ,              , True         , LA
+         224, Lucario    ,              , True         , LA
+         225, Uxie       ,              , True         , LA
+         226, Mesprit    ,              , True         , LA
+         227, Azelf      ,              , True         , LA
+         228, Heatran    ,              , True         , LA
+         229, Regigigas  ,              , True         , LA
+         230, Cresselia  ,              , True         , LA
+         231, Tornadus   ,              , True         , LA
+         231, Tornadus   , Therian Forme, True         , LA
+         232, Thundurus  ,              , True         , LA
+         232, Thundurus  , Therian Forme, True         , LA
+         233, Landorus   ,              , True         , LA
+         233, Landorus   , Therian Forme, True         , LA
+         234, Enamorus   ,              , True         , LA
+         234, Enamorus   , Therian Forme, True         , LA
+         235, Dialga     ,              , True         , LA
+         235, Dialga     , Origin Forme , True         , LA
+         236, Palkia     ,              , True         , LA
+         236, Palkia     , Origin Forme , True         , LA
+         237, Giratina   ,              , True         , LA
+         237, Giratina   , Origin Forme , True         , LA
+         238, Phione     ,              , True         , LA
+         239, Manaphy    ,              , True         , LA
+         240, Arceus     ,              , True         , LA
+         241, Shaymin    ,              , True         , LA
+         241, Shaymin    , Sky Forme    , True         , LA
+         242, Darkrai    ,              , True         , LA
