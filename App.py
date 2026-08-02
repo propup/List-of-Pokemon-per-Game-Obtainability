@@ -2,7 +2,7 @@ import streamlit as st
 import pandas as pd
 import ast
 
-df = pd.read_csv("CVS/Master_set_per_games.csv")
+df = pd.read_csv("CSVs/Master_set_per_games.csv")
 st.set_page_config(layout="wide")
 
 
