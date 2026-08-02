@@ -2,7 +2,7 @@ import streamlit as st
 import pandas as pd
 import ast
 
-df = pd.read_csv("C:/Vs code projects/Scraper for pokemon/CVS Folder/Master_set_per_games.csv")
+df = pd.read_csv("CVS/Master_set_per_games.csv")
 st.set_page_config(layout="wide")
 
 
