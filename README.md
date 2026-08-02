@@ -16,11 +16,20 @@ A Streamlit app that shows which Pokémon are obtainable in each Pokémon game.
 - Python
 - Pandas
 - Streamlit
-- BeautifulSoup
+
 
 ## Data Sources
 
 The database was created by collecting and combining Pokémon availability data from publicly available Pokémon resources.
+### DataSets Created Using:
+- BeautifulSoup
+- Python
+- Pandas
+- Requests
+- Playwright
+  
+#### Web Scrappers 
+The web scrapers were used during the data collection and preparation phase to gather and clean Pokémon availability data. The Streamlit application uses the finalized dataset rather than scraping websites every time it runs, which improves speed, reliability, and consistency.
 
 ## Installation
 
@@ -56,14 +65,34 @@ The application will open in your browser.
 
 ## Project Structure
 
-PokemonProject/
-- ui.py - Streamlit application
+List-of-Pokemon-per-Game-Obtainability/
+- app.py - Streamlit application
 - requirements.txt - Python dependencies
-- CSV files - Pokémon datasets
+- CSVs/ - Pokémon datasets
 - README.md - Project documentation
+
+## How the Data Was Created
+
+The dataset was created through a multi-step data collection and cleaning process:
+
+1. **Data Collection**
+   - Pokémon availability data was collected from publicly available Pokémon resources using Python web scraping tools.
+   - BeautifulSoup and Playwright were used to extract data from web pages with different structures.
+
+2. **Data Cleaning**
+   - The collected data was cleaned and standardized using Pandas.
+   - Data inconsistencies, duplicate entries, and formatting issues were corrected to create a consistent dataset.
+
+3. **Dataset Creation**
+   - Individual datasets were combined into a master CSV file containing Pokémon availability information across different games.
+   - The final dataset was structured to allow searching and filtering by Pokémon, National Dex number, and game.
+
+4. **Application**
+   - The Streamlit application reads the finalized CSV dataset and provides an interactive interface for exploring Pokémon availability.
+
 
 ## Author
 Pro Pup
 
-
-
+## Notes:
+This is a first project there will likely be errors.
