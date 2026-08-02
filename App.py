@@ -17,7 +17,7 @@ for games in df["Games"]:
         uniqueGames.add(game)
 
 
-st.title("Pokémon Database")
+st.title("Pokémon Database (PokeFinderDB)")
 
 search = st.text_input("Search for a Pokémon (Name or National Dex #)")
 
