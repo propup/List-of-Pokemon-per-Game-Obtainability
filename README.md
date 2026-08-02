@@ -2,7 +2,7 @@
 
 A Streamlit app that shows which Pokémon are obtainable in each Pokémon game.
 
-##Screenshots:
+## Screenshots:
 <img width="1815" height="757" alt="image" src="https://github.com/user-attachments/assets/8bd6960a-eca1-4a56-92a4-1be109a217d3" />
 <img width="1898" height="845" alt="image" src="https://github.com/user-attachments/assets/436d489a-1af0-4a90-8ce4-7560cd9a9d28" />
 
@@ -26,7 +26,7 @@ The database was created by collecting and combining Pokémon availability data 
 
 Clone the repository:
 ```bash
-git clone github.com/propup/List-of-Pokemon-per-Game-Obtainability.git
+git clone https://github.com/propup/List-of-Pokemon-per-Game-Obtainability.git
 ```
 Navigate into the project folder:
 ```bash
