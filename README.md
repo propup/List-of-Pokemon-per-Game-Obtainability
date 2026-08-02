@@ -25,13 +25,13 @@ The database was created by collecting and combining Pokémon availability data 
 ## Installation
 
 Clone the repository:
-
-git clone https://github.com/username/repository-name.git
-
+```bash
+git clone github.com/propup/List-of-Pokemon-per-Game-Obtainability.git
+```
 Navigate into the project folder:
-
-cd repository-name
-
+```bash
+cd List-of-Pokemon-per-Game-Obtainability
+```
 Create a virtual environment:
 
 python -m venv .venv
