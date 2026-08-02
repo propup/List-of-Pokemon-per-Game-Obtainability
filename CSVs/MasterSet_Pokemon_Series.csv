@@ -58,10 +58,10 @@ National_Dex,Pokemon,Form,Series
 51,Dugtrio,,"['RGBY', 'FrLg', 'PE', 'GSC', 'DPPt', 'HgSs', 'XY', 'OrAs', 'SM', 'UsUm', 'BdSp', 'SwSh', 'SV']"
 51,Dugtrio,Alolan,"['SwSh', 'SV']"
 52,Meowth,,"['RGBY', 'FrLg', 'PE', 'GSC', 'DPPt', 'HgSs', 'B2W2', 'OrAs', 'SM', 'UsUm', 'BdSp', 'SwSh', 'ZA', 'SV']"
-52,Meowth,Alolan,"['SwSh', 'ZA', 'SV']"
+52,Meowth,Alolan,"['SwSh', 'ZA']"
 52,Meowth,Galarian,"['SwSh', 'ZA', 'SV']"
 53,Persian,,"['RGBY', 'FrLg', 'PE', 'GSC', 'DPPt', 'HgSs', 'B2W2', 'OrAs', 'SM', 'UsUm', 'BdSp', 'SwSh', 'ZA', 'SV']"
-53,Persian,Alolan,"['SwSh', 'ZA', 'SV']"
+53,Persian,Alolan,"['SwSh', 'ZA']"
 54,Psyduck,,"['RGBY', 'FrLg', 'PE', 'GSC', 'RSE', 'DPPt', 'HgSs', 'BW', 'B2W2', 'XY', 'OrAs', 'SM', 'UsUm', 'BdSp', 'LA', 'SwSh', 'SV']"
 55,Golduck,,"['RGBY', 'FrLg', 'PE', 'GSC', 'RSE', 'DPPt', 'HgSs', 'BW', 'B2W2', 'XY', 'OrAs', 'SM', 'UsUm', 'BdSp', 'LA', 'SwSh', 'SV']"
 56,Mankey,,"['RGBY', 'FrLg', 'PE', 'GSC', 'DPPt', 'HgSs', 'BW', 'B2W2', 'XY', 'OrAs', 'SM', 'UsUm', 'BdSp', 'ZA', 'SV']"
@@ -107,9 +107,7 @@ National_Dex,Pokemon,Form,Series
 86,Seel,,"['RGBY', 'FrLg', 'PE', 'GSC', 'DPPt', 'HgSs', 'BW', 'B2W2', 'XY', 'OrAs', 'UsUm', 'BdSp', 'SV']"
 87,Dewgong,,"['RGBY', 'FrLg', 'PE', 'GSC', 'DPPt', 'HgSs', 'BW', 'B2W2', 'XY', 'OrAs', 'UsUm', 'BdSp', 'SV']"
 88,Grimer,,"['RGBY', 'FrLg', 'PE', 'GSC', 'RSE', 'DPPt', 'HgSs', 'B2W2', 'XY', 'OrAs', 'SM', 'UsUm', 'BdSp', 'SV']"
-88,Grimer,Alolan,['SV']
 89,Muk,,"['RGBY', 'FrLg', 'PE', 'GSC', 'RSE', 'DPPt', 'HgSs', 'B2W2', 'XY', 'OrAs', 'SM', 'UsUm', 'BdSp', 'SV']"
-89,Muk,Alolan,['SV']
 90,Shellder,,"['RGBY', 'FrLg', 'PE', 'GSC', 'DPPt', 'HgSs', 'BW', 'B2W2', 'XY', 'SM', 'UsUm', 'BdSp', 'SwSh', 'SV']"
 91,Cloyster,,"['RGBY', 'FrLg', 'PE', 'GSC', 'DPPt', 'HgSs', 'BW', 'B2W2', 'XY', 'SM', 'UsUm', 'BdSp', 'SwSh', 'SV']"
 92,Gastly,,"['RGBY', 'FrLg', 'PE', 'GSC', 'DPPt', 'HgSs', 'BW', 'XY', 'SM', 'UsUm', 'BdSp', 'LA', 'SwSh', 'ZA', 'SV']"
@@ -121,9 +119,9 @@ National_Dex,Pokemon,Form,Series
 98,Krabby,,"['RGBY', 'FrLg', 'PE', 'GSC', 'DPPt', 'HgSs', 'BW', 'B2W2', 'XY', 'OrAs', 'BdSp', 'SwSh']"
 99,Kingler,,"['RGBY', 'FrLg', 'PE', 'GSC', 'DPPt', 'HgSs', 'BW', 'B2W2', 'XY', 'OrAs', 'BdSp', 'SwSh']"
 100,Voltorb,,"['RGBY', 'FrLg', 'PE', 'GSC', 'RSE', 'DPPt', 'HgSs', 'XY', 'OrAs', 'UsUm', 'BdSp', 'SV']"
-100,Voltorb,Hisuian,"['LA', 'SV']"
+100,Voltorb,Hisuian,['LA']
 101,Electrode,,"['RGBY', 'FrLg', 'PE', 'GSC', 'RSE', 'DPPt', 'HgSs', 'XY', 'OrAs', 'UsUm', 'BdSp', 'SV']"
-101,Electrode,Hisuian,"['LA', 'SV']"
+101,Electrode,Hisuian,['LA']
 102,Exeggcute,,"['RGBY', 'FrLg', 'PE', 'GSC', 'DPPt', 'HgSs', 'BW', 'XY', 'SM', 'UsUm', 'BdSp', 'SwSh', 'SV']"
 103,Exeggutor,,"['RGBY', 'FrLg', 'PE', 'GSC', 'DPPt', 'HgSs', 'BW', 'XY', 'UsUm', 'BdSp', 'SwSh', 'SV']"
 103,Exeggutor,Alolan,"['SwSh', 'SV']"
@@ -135,7 +133,7 @@ National_Dex,Pokemon,Form,Series
 108,Lickitung,,"['RGBY', 'FrLg', 'PE', 'GSC', 'DPPt', 'HgSs', 'BW', 'B2W2', 'XY', 'UsUm', 'BdSp', 'LA', 'SwSh']"
 109,Koffing,,"['RGBY', 'FrLg', 'PE', 'GSC', 'RSE', 'DPPt', 'HgSs', 'B2W2', 'OrAs', 'BdSp', 'SwSh', 'SV']"
 110,Weezing,,"['RGBY', 'FrLg', 'PE', 'GSC', 'RSE', 'DPPt', 'HgSs', 'B2W2', 'OrAs', 'BdSp', 'SwSh', 'SV']"
-110,Weezing,Galarian,"['SwSh', 'SV']"
+110,Weezing,Galarian,['SwSh']
 111,Rhyhorn,,"['RGBY', 'FrLg', 'PE', 'GSC', 'RSE', 'DPPt', 'HgSs', 'BW', 'B2W2', 'XY', 'OrAs', 'SM', 'UsUm', 'BdSp', 'LA', 'SwSh', 'SV']"
 112,Rhydon,,"['RGBY', 'FrLg', 'PE', 'GSC', 'RSE', 'DPPt', 'HgSs', 'BW', 'B2W2', 'XY', 'OrAs', 'SM', 'UsUm', 'BdSp', 'LA', 'SwSh', 'SV']"
 113,Chansey,,"['RGBY', 'FrLg', 'PE', 'GSC', 'DPPt', 'HgSs', 'BW', 'B2W2', 'XY', 'OrAs', 'SM', 'UsUm', 'BdSp', 'LA', 'SwSh', 'SV']"
@@ -174,11 +172,11 @@ National_Dex,Pokemon,Form,Series
 142,Aerodactyl,,"['RGBY', 'FrLg', 'PE', 'GSC', 'DPPt', 'HgSs', 'BW', 'B2W2', 'XY', 'OrAs', 'SM', 'UsUm', 'BdSp', 'SwSh', 'ZA']"
 143,Snorlax,,"['RGBY', 'FrLg', 'PE', 'GSC', 'DPPt', 'HgSs', 'BW', 'B2W2', 'XY', 'SM', 'UsUm', 'BdSp', 'LA', 'SwSh', 'SV']"
 144,Articuno,,"['RGBY', 'FrLg', 'PE', 'DPPt', 'HgSs', 'XY', 'UsUm', 'BdSp', 'SwSh', 'SV']"
-144,Articuno,Galarian,"['SwSh', 'SV']"
+144,Articuno,Galarian,['SwSh']
 145,Zapdos,,"['RGBY', 'FrLg', 'PE', 'DPPt', 'HgSs', 'XY', 'UsUm', 'BdSp', 'SwSh', 'SV']"
-145,Zapdos,Galarian,"['SwSh', 'SV']"
+145,Zapdos,Galarian,['SwSh']
 146,Moltres,,"['RGBY', 'FrLg', 'PE', 'DPPt', 'HgSs', 'XY', 'UsUm', 'BdSp', 'SwSh', 'SV']"
-146,Moltres,Galarian,"['SwSh', 'SV']"
+146,Moltres,Galarian,['SwSh']
 147,Dratini,,"['RGBY', 'FrLg', 'PE', 'GSC', 'DPPt', 'HgSs', 'BW', 'B2W2', 'XY', 'SM', 'UsUm', 'BdSp', 'SwSh', 'ZA', 'SV']"
 148,Dragonair,,"['RGBY', 'FrLg', 'PE', 'GSC', 'DPPt', 'HgSs', 'BW', 'B2W2', 'XY', 'SM', 'UsUm', 'BdSp', 'SwSh', 'ZA', 'SV']"
 149,Dragonite,,"['RGBY', 'FrLg', 'PE', 'GSC', 'DPPt', 'HgSs', 'BW', 'B2W2', 'XY', 'SM', 'UsUm', 'BdSp', 'SwSh', 'ZA', 'SV']"
@@ -190,7 +188,7 @@ National_Dex,Pokemon,Form,Series
 155,Cyndaquil,,"['GSC', 'RSE', 'HgSs', 'OrAs', 'SM', 'BdSp', 'LA', 'SV']"
 156,Quilava,,"['GSC', 'RSE', 'HgSs', 'OrAs', 'SM', 'BdSp', 'LA', 'SV']"
 157,Typhlosion,,"['GSC', 'RSE', 'HgSs', 'OrAs', 'SM', 'BdSp', 'SV']"
-157,Typhlosion,Hisuian,"['LA', 'SV']"
+157,Typhlosion,Hisuian,['LA']
 158,Totodile,,"['GSC', 'RSE', 'HgSs', 'OrAs', 'SM', 'BdSp', 'ZA', 'SV']"
 159,Croconaw,,"['GSC', 'RSE', 'HgSs', 'OrAs', 'SM', 'BdSp', 'ZA', 'SV']"
 160,Feraligatr,,"['GSC', 'RSE', 'HgSs', 'OrAs', 'SM', 'BdSp', 'ZA', 'SV']"
@@ -253,7 +251,7 @@ National_Dex,Pokemon,Form,Series
 213,Shuckle,,"['GSC', 'RSE', 'DPPt', 'HgSs', 'BW', 'B2W2', 'XY', 'BdSp', 'SwSh']"
 214,Heracross,,"['FrLg', 'GSC', 'RSE', 'DPPt', 'HgSs', 'BW', 'B2W2', 'XY', 'OrAs', 'UsUm', 'BdSp', 'LA', 'SwSh', 'ZA', 'SV']"
 215,Sneasel,,"['FrLg', 'GSC', 'DPPt', 'HgSs', 'BW', 'B2W2', 'XY', 'SM', 'UsUm', 'BdSp', 'LA', 'SwSh', 'SV']"
-215,Sneasel,Hisuian,"['LA', 'SV']"
+215,Sneasel,Hisuian,['LA']
 216,Teddiursa,,"['GSC', 'RSE', 'DPPt', 'HgSs', 'B2W2', 'XY', 'BdSp', 'LA', 'SV']"
 217,Ursaring,,"['GSC', 'RSE', 'DPPt', 'HgSs', 'B2W2', 'XY', 'BdSp', 'LA', 'SV']"
 218,Slugma,,"['FrLg', 'GSC', 'RSE', 'DPPt', 'HgSs', 'XY', 'OrAs', 'UsUm', 'BdSp', 'SV']"
@@ -418,22 +416,21 @@ National_Dex,Pokemon,Form,Series
 374,Beldum,,"['RSE', 'DPPt', 'HgSs', 'BW', 'B2W2', 'XY', 'OrAs', 'SM', 'UsUm', 'BdSp', 'SwSh', 'ZA', 'SV']"
 375,Metang,,"['RSE', 'DPPt', 'HgSs', 'BW', 'B2W2', 'XY', 'OrAs', 'SM', 'UsUm', 'BdSp', 'SwSh', 'ZA', 'SV']"
 376,Metagross,,"['RSE', 'DPPt', 'HgSs', 'BW', 'B2W2', 'XY', 'OrAs', 'SM', 'UsUm', 'BdSp', 'SwSh', 'ZA', 'SV']"
-377,Regirock,,"['RSE', 'DPPt', 'B2W2', 'OrAs', 'UsUm', 'BdSp', 'SwSh', 'SV']"
-378,Regice,,"['RSE', 'DPPt', 'B2W2', 'OrAs', 'UsUm', 'BdSp', 'SwSh', 'SV']"
-379,Registeel,,"['RSE', 'DPPt', 'B2W2', 'OrAs', 'UsUm', 'BdSp', 'SwSh', 'SV']"
+377,Regirock,,"['RSE', 'DPPt', 'B2W2', 'OrAs', 'UsUm', 'BdSp', 'SwSh']"
+378,Regice,,"['RSE', 'DPPt', 'B2W2', 'OrAs', 'UsUm', 'BdSp', 'SwSh']"
+379,Registeel,,"['RSE', 'DPPt', 'B2W2', 'OrAs', 'UsUm', 'BdSp', 'SwSh']"
 380,Latias,,"['RSE', 'HgSs', 'B2W2', 'XY', 'OrAs', 'SM', 'UsUm', 'BdSp', 'SwSh', 'ZA', 'SV']"
 381,Latios,,"['RSE', 'HgSs', 'B2W2', 'XY', 'OrAs', 'SM', 'UsUm', 'BdSp', 'SwSh', 'ZA', 'SV']"
 382,Kyogre,,"['RSE', 'HgSs', 'XY', 'OrAs', 'SM', 'UsUm', 'BdSp', 'SwSh', 'ZA', 'SV']"
 383,Groudon,,"['RSE', 'HgSs', 'XY', 'OrAs', 'SM', 'UsUm', 'BdSp', 'SwSh', 'ZA', 'SV']"
 384,Rayquaza,,"['RSE', 'HgSs', 'XY', 'OrAs', 'UsUm', 'BdSp', 'SwSh', 'ZA', 'SV']"
-385,Jirachi,,"['RSE', 'XY', 'OrAs', 'SM', 'BdSp', 'SwSh', 'SV']"
+385,Jirachi,,"['RSE', 'XY', 'OrAs', 'SM', 'BdSp', 'SwSh']"
 386,Deoxys,,"['RSE', 'OrAs', 'BdSp']"
 386,Deoxys,Attack,['FrLg']
-386,Deoxys,Attack Forme,"['BdSp', 'SV']"
+386,Deoxys,Attack Forme,['BdSp']
 386,Deoxys,Defense,['FrLg']
-386,Deoxys,Defense Forme,"['BdSp', 'SV']"
-386,Deoxys,Normal Forme,['SV']
-386,Deoxys,Speed Forme,"['BdSp', 'SV']"
+386,Deoxys,Defense Forme,['BdSp']
+386,Deoxys,Speed Forme,['BdSp']
 387,Turtwig,,"['DPPt', 'OrAs', 'UsUm', 'BdSp', 'LA', 'SV']"
 388,Grotle,,"['DPPt', 'OrAs', 'UsUm', 'BdSp', 'LA', 'SV']"
 389,Torterra,,"['DPPt', 'OrAs', 'UsUm', 'BdSp', 'LA', 'SV']"
@@ -547,23 +544,23 @@ National_Dex,Pokemon,Form,Series
 480,Uxie,,"['DPPt', 'B2W2', 'OrAs', 'UsUm', 'BdSp', 'LA', 'SwSh', 'SV']"
 481,Mesprit,,"['DPPt', 'B2W2', 'OrAs', 'UsUm', 'BdSp', 'LA', 'SwSh', 'SV']"
 482,Azelf,,"['DPPt', 'B2W2', 'OrAs', 'UsUm', 'BdSp', 'LA', 'SwSh', 'SV']"
-483,Dialga,,"['DPPt', 'HgSs', 'B2W2', 'XY', 'OrAs', 'SM', 'UsUm', 'BdSp', 'LA', 'SwSh', 'SV']"
-483,Dialga,Origin Forme,"['LA', 'SV']"
-484,Palkia,,"['DPPt', 'HgSs', 'B2W2', 'XY', 'OrAs', 'SM', 'UsUm', 'BdSp', 'LA', 'SwSh', 'SV']"
-484,Palkia,Origin Forme,"['LA', 'SV']"
+483,Dialga,,"['DPPt', 'HgSs', 'B2W2', 'XY', 'OrAs', 'SM', 'UsUm', 'BdSp', 'LA', 'SwSh']"
+483,Dialga,Origin Forme,['LA']
+484,Palkia,,"['DPPt', 'HgSs', 'B2W2', 'XY', 'OrAs', 'SM', 'UsUm', 'BdSp', 'LA', 'SwSh']"
+484,Palkia,Origin Forme,['LA']
 485,Heatran,,"['DPPt', 'B2W2', 'OrAs', 'SM', 'UsUm', 'BdSp', 'LA', 'SwSh', 'ZA', 'SV']"
-486,Regigigas,,"['DPPt', 'B2W2', 'OrAs', 'SM', 'UsUm', 'BdSp', 'LA', 'SwSh', 'SV']"
+486,Regigigas,,"['DPPt', 'B2W2', 'OrAs', 'SM', 'UsUm', 'BdSp', 'LA', 'SwSh']"
 487,Giratina,,"['DPPt', 'HgSs', 'B2W2', 'XY', 'OrAs', 'UsUm', 'LA', 'SwSh']"
-487,Giratina,Altered Forme,"['BdSp', 'SV']"
-487,Giratina,Origin Forme,"['BdSp', 'LA', 'SwSh', 'SV']"
+487,Giratina,Altered Forme,['BdSp']
+487,Giratina,Origin Forme,"['BdSp', 'LA', 'SwSh']"
 488,Cresselia,,"['DPPt', 'B2W2', 'OrAs', 'UsUm', 'BdSp', 'LA', 'SwSh', 'SV']"
-489,Phione,,"['DPPt', 'XY', 'OrAs', 'SM', 'UsUm', 'BdSp', 'LA', 'SV']"
-490,Manaphy,,"['DPPt', 'XY', 'OrAs', 'SM', 'UsUm', 'BdSp', 'LA', 'SV']"
-491,Darkrai,,"['DPPt', 'XY', 'OrAs', 'SM', 'UsUm', 'BdSp', 'LA', 'ZA', 'SV']"
+489,Phione,,"['DPPt', 'XY', 'OrAs', 'SM', 'UsUm', 'BdSp', 'LA']"
+490,Manaphy,,"['DPPt', 'XY', 'OrAs', 'SM', 'UsUm', 'BdSp', 'LA']"
+491,Darkrai,,"['DPPt', 'XY', 'OrAs', 'SM', 'UsUm', 'BdSp', 'LA', 'ZA']"
 492,Shaymin,,"['DPPt', 'OrAs', 'SM', 'UsUm', 'LA']"
-492,Shaymin,Land Forme,"['BdSp', 'SV']"
-492,Shaymin,Sky Forme,"['BdSp', 'LA', 'SV']"
-493,Arceus,,"['DPPt', 'OrAs', 'UsUm', 'BdSp', 'LA', 'SV']"
+492,Shaymin,Land Forme,['BdSp']
+492,Shaymin,Sky Forme,"['BdSp', 'LA']"
+493,Arceus,,"['DPPt', 'OrAs', 'UsUm', 'BdSp', 'LA']"
 494,Victini,,"['BW', 'XY', 'OrAs', 'SM', 'SwSh']"
 495,Snivy,,"['BW', 'B2W2', 'OrAs', 'SM', 'SV']"
 496,Servine,,"['BW', 'B2W2', 'OrAs', 'SM', 'SV']"
@@ -574,7 +571,7 @@ National_Dex,Pokemon,Form,Series
 501,Oshawott,,"['BW', 'B2W2', 'OrAs', 'SM', 'LA', 'SV']"
 502,Dewott,,"['BW', 'B2W2', 'OrAs', 'SM', 'LA', 'SV']"
 503,Samurott,,"['BW', 'B2W2', 'OrAs', 'SM', 'SV']"
-503,Samurott,Hisuian,"['LA', 'SV']"
+503,Samurott,Hisuian,['LA']
 504,Patrat,,"['BW', 'B2W2', 'XY', 'ZA']"
 505,Watchog,,"['BW', 'B2W2', 'XY', 'ZA']"
 506,Lillipup,,"['BW', 'B2W2', 'XY', 'OrAs', 'SM', 'UsUm', 'SwSh']"
@@ -621,7 +618,7 @@ National_Dex,Pokemon,Form,Series
 547,Whimsicott,,"['BW', 'B2W2', 'OrAs', 'SM', 'UsUm', 'SwSh', 'SV']"
 548,Petilil,,"['BW', 'B2W2', 'XY', 'OrAs', 'SM', 'UsUm', 'LA', 'SwSh', 'SV']"
 549,Lilligant,,"['BW', 'B2W2', 'XY', 'OrAs', 'SM', 'UsUm', 'SwSh', 'SV']"
-549,Lilligant,Hisuian,"['LA', 'SV']"
+549,Lilligant,Hisuian,['LA']
 550,Basculin,,"['BW', 'B2W2', 'XY', 'UsUm', 'LA', 'SwSh', 'SV']"
 550,Basculin,White Striped Form,['SV']
 551,Sandile,,"['BW', 'B2W2', 'XY', 'OrAs', 'SM', 'UsUm', 'SwSh', 'ZA', 'SV']"
@@ -647,9 +644,9 @@ National_Dex,Pokemon,Form,Series
 568,Trubbish,,"['BW', 'B2W2', 'XY', 'OrAs', 'SM', 'UsUm', 'SwSh', 'ZA']"
 569,Garbodor,,"['BW', 'B2W2', 'XY', 'OrAs', 'SM', 'UsUm', 'SwSh', 'ZA']"
 570,Zorua,,"['BW', 'B2W2', 'XY', 'OrAs', 'UsUm', 'SwSh', 'SV']"
-570,Zorua,Hisuian,"['LA', 'SV']"
+570,Zorua,Hisuian,['LA']
 571,Zoroark,,"['BW', 'B2W2', 'XY', 'OrAs', 'UsUm', 'SwSh', 'SV']"
-571,Zoroark,Hisuian,"['LA', 'SV']"
+571,Zoroark,Hisuian,['LA']
 572,Minccino,,"['BW', 'B2W2', 'XY', 'OrAs', 'UsUm', 'SwSh', 'SV']"
 573,Cinccino,,"['BW', 'B2W2', 'XY', 'OrAs', 'UsUm', 'SwSh', 'SV']"
 574,Gothita,,"['BW', 'B2W2', 'XY', 'OrAs', 'SM', 'SwSh', 'SV']"
@@ -708,7 +705,7 @@ National_Dex,Pokemon,Form,Series
 626,Bouffalant,,"['BW', 'B2W2', 'OrAs', 'SwSh']"
 627,Rufflet,,"['BW', 'B2W2', 'XY', 'OrAs', 'SM', 'UsUm', 'LA', 'SwSh', 'SV']"
 628,Braviary,,"['BW', 'B2W2', 'XY', 'OrAs', 'SM', 'UsUm', 'SwSh', 'SV']"
-628,Braviary,Hisuian,"['LA', 'SV']"
+628,Braviary,Hisuian,['LA']
 629,Vullaby,,"['BW', 'B2W2', 'XY', 'OrAs', 'SM', 'UsUm', 'SwSh', 'SV']"
 630,Mandibuzz,,"['BW', 'B2W2', 'XY', 'OrAs', 'SM', 'UsUm', 'SwSh', 'SV']"
 631,Heatmor,,"['BW', 'B2W2', 'XY', 'SwSh']"
@@ -795,9 +792,9 @@ National_Dex,Pokemon,Form,Series
 703,Carbink,,"['XY', 'SM', 'UsUm', 'SwSh', 'ZA', 'SV']"
 704,Goomy,,"['XY', 'SM', 'UsUm', 'LA', 'SwSh', 'ZA', 'SV']"
 705,Sliggoo,,"['XY', 'SM', 'UsUm', 'SwSh', 'ZA', 'SV']"
-705,Sliggoo,Hisuian,"['LA', 'ZA', 'SV']"
+705,Sliggoo,Hisuian,"['LA', 'ZA']"
 706,Goodra,,"['XY', 'SM', 'UsUm', 'SwSh', 'ZA', 'SV']"
-706,Goodra,Hisuian,"['LA', 'ZA', 'SV']"
+706,Goodra,Hisuian,"['LA', 'ZA']"
 707,Klefki,,"['XY', 'OrAs', 'SM', 'UsUm', 'SwSh', 'ZA', 'SV']"
 708,Phantump,,"['XY', 'OrAs', 'SM', 'UsUm', 'SwSh', 'ZA', 'SV']"
 709,Trevenant,,"['XY', 'OrAs', 'SM', 'UsUm', 'SwSh', 'ZA', 'SV']"
@@ -805,7 +802,7 @@ National_Dex,Pokemon,Form,Series
 711,Gourgeist,,"['XY', 'SwSh']"
 712,Bergmite,,"['XY', 'LA', 'SwSh', 'ZA', 'SV']"
 713,Avalugg,,"['XY', 'SwSh', 'ZA', 'SV']"
-713,Avalugg,Hisuian,"['LA', 'ZA', 'SV']"
+713,Avalugg,Hisuian,"['LA', 'ZA']"
 714,Noibat,,"['XY', 'UsUm', 'SwSh', 'ZA', 'SV']"
 715,Noivern,,"['XY', 'UsUm', 'SwSh', 'ZA', 'SV']"
 716,Xerneas,,"['XY', 'OrAs', 'SM', 'UsUm', 'SwSh', 'ZA']"
@@ -817,7 +814,7 @@ National_Dex,Pokemon,Form,Series
 722,Rowlet,,"['SM', 'UsUm', 'LA', 'SwSh', 'SV']"
 723,Dartrix,,"['SM', 'UsUm', 'LA', 'SwSh', 'SV']"
 724,Decidueye,,"['SM', 'UsUm', 'SwSh', 'SV']"
-724,Decidueye,Hisuian,"['LA', 'SV']"
+724,Decidueye,Hisuian,['LA']
 725,Litten,,"['SM', 'UsUm', 'SwSh', 'SV']"
 726,Torracat,,"['SM', 'UsUm', 'SwSh', 'SV']"
 727,Incineroar,,"['SM', 'UsUm', 'SwSh', 'SV']"
@@ -994,21 +991,21 @@ National_Dex,Pokemon,Form,Series
 886,Drakloak,,"['SwSh', 'SV']"
 886,Mr. Rime,,['SwSh']
 887,Dragapult,,"['SwSh', 'SV']"
-888,Zacian,,"['SwSh', 'SwSh', 'SV']"
-889,Zamazenta,,"['SwSh', 'SwSh', 'SV']"
-890,Eternatus,,"['SwSh', 'SV']"
+888,Zacian,,"['SwSh', 'SwSh']"
+889,Zamazenta,,"['SwSh', 'SwSh']"
+890,Eternatus,,['SwSh']
 891,Kubfu,,"['SwSh', 'SV']"
 892,Urshifu,Rapid-Strike Style,"['SwSh', 'SV']"
 892,Urshifu,Single-Strike Style,"['SwSh', 'SV']"
 893,Zarude,,"['SwSh', 'SV']"
-894,Regieleki,,"['SwSh', 'SV']"
-895,Regidrago,,"['SwSh', 'SV']"
+894,Regieleki,,['SwSh']
+895,Regidrago,,['SwSh']
 896,Glastrier,,"['SwSh', 'SV']"
 897,Spectrier,,"['SwSh', 'SV']"
-898,Calyrex,,"['SwSh', 'SV']"
-898,Calyrex,Ice Rider,"['SwSh', 'SV']"
-898,Calyrex,Shadow Rider,"['SwSh', 'SV']"
-899,Wyrdeer,,"['LA', 'SV']"
+898,Calyrex,,['SwSh']
+898,Calyrex,Ice Rider,['SwSh']
+898,Calyrex,Shadow Rider,['SwSh']
+899,Wyrdeer,,['LA']
 900,Kleavor,,"['LA', 'ZA', 'SV']"
 901,Bloodmoon Ursaluna,,['SV']
 901,Ursaluna,,"['LA', 'SV']"
