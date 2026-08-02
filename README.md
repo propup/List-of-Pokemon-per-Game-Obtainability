@@ -33,24 +33,25 @@ Navigate into the project folder:
 cd List-of-Pokemon-per-Game-Obtainability
 ```
 Create a virtual environment:
-
+```bash
 python -m venv .venv
-
+```
 Activate the virtual environment:
 
 Windows:
+```bash
 .venv\Scripts\activate
-
+```
 Install dependencies:
-
+```bash
 pip install -r requirements.txt
-
+```
 ## Running the Application
 
 Run the Streamlit application:
-
+```bash
 streamlit run app.py
-
+```
 The application will open in your browser.
 
 ## Project Structure
