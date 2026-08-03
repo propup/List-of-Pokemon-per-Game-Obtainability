@@ -2,7 +2,7 @@ import streamlit as st
 import pandas as pd
 import ast
 
-df = pd.read_csv("/CSVs/Master_set_per_games.csv")
+df = pd.read_csv("CSVs/Master_set_per_games.csv")
 dfDex = pd.read_csv("CSVs/MasterDex.csv", engine='python')
 
 df = df.merge(dfDex, on=['National_Dex', 'Pokemon'])
