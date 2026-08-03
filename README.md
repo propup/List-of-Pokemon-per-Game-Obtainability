@@ -13,6 +13,7 @@ Check out the app here: [Pokémon Obtainability Database](https://pokefinderdb.s
 ## Features
 - Search Pokémon by name
 - Search by National Dex number
+- Search by Pokemon Games Dex (ie. Galar, Crowned Tundra, Kanto)
 - Filter Pokémon by game
 - View obtainable Pokémon data
 
